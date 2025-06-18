@@ -13,13 +13,12 @@ module.exports = {
   projectName: 'training',
 
   presets: [
-  [
-    'classic',
-    {
-      docs: false,
-      blog: false,
-      pages: true,
-    },
+    [
+      'classic',
+      {
+        docs: false,
+        blog: false
+      },
+    ],
   ],
-],
 };
