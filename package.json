@@ -1,0 +1,5 @@
+"scripts": {
+  "build": "docusaurus build",
+  "deploy": "docusaurus deploy",
+  "predeploy": "npm run build"
+}
