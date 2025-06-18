@@ -9,23 +9,17 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'advisorpages', // GitHub org/user
-  projectName: 'training',          // GitHub repo name
+  organizationName: 'advisorpages',
+  projectName: 'training',
 
   presets: [
-    [
-      'classic',
-      {
-        docs: {
-          routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
-        },
-        blog: false,
-        pages: false,
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
+  [
+    'classic',
+    {
+      docs: false,
+      blog: false,
+      pages: true,
+    },
   ],
+],
 };
