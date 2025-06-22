@@ -5,17 +5,31 @@ title: Modules
 
 # 📚 Training Modules
 
-A categorized list of all modules to support planning and reduce duplication.
+Use this directory to review and plan effective training topics.
 
+## 🗂 Categories
+
+- [Close](#close)
+- [Inspirational](#inspirational)
+- [Investments & Wealth Building](#investments-wealth-building)
+- [Opening](#opening)
+- [Productivity](#productivity)
+- [Uncategorized](#uncategorized)
+
+---
 
 ## Close
+<a id="close"></a>
 
 ### topic-7 — Close ✅
 - 💬 **Promo Hook**: —
 
 ---
 
+---
+
 ## Inspirational
+<a id="inspirational"></a>
 
 ### topic-15 — Inspire Video ✅
 - 🏷️ **Tags**: Video
@@ -23,7 +37,10 @@ A categorized list of all modules to support planning and reduce duplication.
 
 ---
 
+---
+
 ## Investments & Wealth Building
+<a id="investments-wealth-building"></a>
 
 ### topic-6 — Canada Life Segregated Fund ✅
 - 🏷️ **Tags**: basics, investments, recruiting, sales
@@ -40,21 +57,30 @@ A categorized list of all modules to support planning and reduce duplication.
 
 ---
 
+---
+
 ## Opening
+<a id="opening"></a>
 
 ### topic-24 — Open ✅
 - 💬 **Promo Hook**: —
 
 ---
 
+---
+
 ## Productivity
+<a id="productivity"></a>
 
 ### mod-005 — Follow Up ❌
 - 💬 **Promo Hook**: —
 
 ---
 
-## null
+---
+
+## Uncategorized
+<a id="uncategorized"></a>
 
 ### topic-1 — 90 Day Challenge ✅
 - 💬 **Promo Hook**: —
