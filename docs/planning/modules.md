@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modules
+---
+
 # 📚 Training Modules
 
 A categorized list of all modules to support planning and reduce duplication.
