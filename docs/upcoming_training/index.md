@@ -2,11 +2,24 @@
 layout: default
 title: Upcoming Training
 ---
-## Canada Life
+## 📣 Investing with Canada Life
 
 **Date:** Sunday, June 22, 2025  
 **Time:** 7:00 PM – 8:30 PM  
-**Location:** Acadia Office
+**Location:** Acadia Office  
+**Audience:** CLIENTS, TEAM, GUESTS
+
+---
+
+### 🚀 Why You Should Come
+We're excited to invite you to an exclusive live training session this Monday, June 2nd at 7:00 PM. Discover the benefits of Canada Life's Segregated Fund and explore innovative strategies to accelerate your team and agency growth. This event is perfect for those looking to drive their financial success forward, engage with industry professionals, and reignite their motivation.
+
+---
+
+### 🎯 What You'll Learn
+- Understand the benefits of the NEW Canada Life Segregated Fund and how it can provide value to your clients.
+- Learn fast and effective ways to grow your team and agency.
+- Network with top industry professionals and gain expert insights.
 
 ---
 
@@ -15,3 +28,5 @@ title: Upcoming Training
 - [module] Concepts and FNA — Biboy Brana
 
 ---
+
+👉 **Ready to empower your financial journey? Show up to our training this Tuesday and experience the change. RSVP today!**
