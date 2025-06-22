@@ -1,6 +1,6 @@
 ---
 title: "Trainers Guide"
-date: "2025-06-19"
+date: "2025-06-22"
 ---
 
 # Trainers Guide
@@ -34,11 +34,11 @@ We're excited to invite you to an exclusive live training session this Monday, J
 ### Segment Breakdown
 
 ━━━━━━━━━━━━━━━━━━
-🔹 Topic 1: Open
+🔹 Topic 1: 90 Day Challenge
 ━━━━━━━━━━━━━━━━━━
 
 ⏱ Duration: 15 mins  
-👤 Trainer: Jeanette Brana
+👤 Trainer: Asim K
 
 🎯 Objectives:  
 _None provided_
@@ -50,26 +50,10 @@ _None provided_
 _None provided_
 
 ━━━━━━━━━━━━━━━━━━
-🔹 Topic 2: Canada Life Segregated Fund
+🔹 Topic 2: Concepts and FNA
 ━━━━━━━━━━━━━━━━━━
 
-⏱ Duration: 45 mins  
-👤 Trainer: Elliott Pong
-
-🎯 Objectives:  
-_None provided_
-
-🧠 Topics:  
-_None provided_
-
-📝 Summary:  
-_None provided_
-
-━━━━━━━━━━━━━━━━━━
-🔹 Topic 3: Close
-━━━━━━━━━━━━━━━━━━
-
-⏱ Duration: 20 mins  
+⏱ Duration: 15 mins  
 👤 Trainer: Biboy Brana
 
 🎯 Objectives:  
@@ -93,6 +77,77 @@ Team, let's drive our success forward! Join the training session this Tuesday on
 
 👉 **Call to Action**  
 Ready to empower your financial journey? Show up to our training this Tuesday and experience the change. RSVP today!
+
+---
+
+## Canada Life (Copy)
+
+—
+
+Sunday, June 22
+7:00 PM - 8:30 PM
+
+📍 **Location:** Acadia Office  
+🎯 **Format:** Inperson  
+👥 **Audience:** Clients, Team, Guests  
+🏷 **Category:** Event  
+📋 **Status:** Upcoming
+
+### Overview
+—
+
+### What You’ll Learn
+
+
+### Trainer Lineup
+—
+
+### Segment Breakdown
+
+━━━━━━━━━━━━━━━━━━
+🔹 Topic 1: 90 Day Challenge
+━━━━━━━━━━━━━━━━━━
+
+⏱ Duration: 15 mins  
+👤 Trainer: Asim K
+
+🎯 Objectives:  
+_None provided_
+
+🧠 Topics:  
+_None provided_
+
+📝 Summary:  
+_None provided_
+
+━━━━━━━━━━━━━━━━━━
+🔹 Topic 2: Concepts and FNA
+━━━━━━━━━━━━━━━━━━
+
+⏱ Duration: 15 mins  
+👤 Trainer: Biboy Brana
+
+🎯 Objectives:  
+_None provided_
+
+🧠 Topics:  
+_None provided_
+
+📝 Summary:  
+_None provided_
+
+### Promo Assets
+📢 **Social Post**  
+—
+
+📨 **Client SMS**  
+—
+
+👥 **Team SMS**  
+—
+
+👉 **Call to Action**  
+—
 
 ---
 
