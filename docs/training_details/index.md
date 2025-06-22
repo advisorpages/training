@@ -7,11 +7,12 @@ title: Internal Details
 
 For trainers only. Please prepare your segment notes in advance.
 
-**Training Name:** Canada Life  
+**Training:** Canada Life  
 **Date:** Sunday, Jun 22, 2025  
 **Time:** 19:00 – 20:30
 
-## Segment Breakdown
+## Topics
+
 
 ### 90 Day Challenge (module)
 - **Trainer:** Asim K
