@@ -24,8 +24,8 @@ We're excited to invite you to an exclusive live training session this Monday, J
 ---
 
 ### Lineup
-- [module] 90 Day Challenge — Asim K
-- [module] Concepts and FNA — Biboy Brana
+- 90 Day Challenge
+- Concepts and FNA
 
 ---
 
