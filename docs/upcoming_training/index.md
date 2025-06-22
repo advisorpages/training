@@ -2,14 +2,16 @@
 layout: default
 title: Upcoming Training
 ---
-# Canada Life
+## Canada Life
 
-**Date:** Sunday, Jun 22, 2025  
-**Time:** 19:00 – 20:30
+**Date:** Sunday, June 22, 2025  
+**Time:** 7:00 PM – 8:30 PM  
+**Location:** Acadia Office
 
-## Topic
+---
+
+### Lineup
 - [module] 90 Day Challenge — Asim K
 - [module] Concepts and FNA — Biboy Brana
-
 
 ---
