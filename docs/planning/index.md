@@ -2,15 +2,15 @@
 layout: default
 title: Past Trainings
 ---
-
 <script src="gate.js"></script>
 
-# 📅 Past Trainings
+# Past Trainings
 
-This timeline helps you avoid duplicate topics and track trainer contributions.
+This timeline helps avoid repetition and tracks contribution.
+
 
 ## Saturday Drill for Skill
-**Date:** Saturday, Jun 7, 2025
+**Date:** Saturday, Jun 7, 2025  
 **Time:** 10:00 – 12:00
 
 ### Segments
@@ -19,7 +19,7 @@ This timeline helps you avoid duplicate topics and track trainer contributions.
 ---
 
 ## Recruiting Conversations
-**Date:** Thursday, Jun 5, 2025
+**Date:** Thursday, Jun 5, 2025  
 **Time:** 19:00 – 20:30
 
 ### Segments
@@ -31,7 +31,7 @@ This timeline helps you avoid duplicate topics and track trainer contributions.
 ---
 
 ## Freedom Thursday
-**Date:** Thursday, Jun 5, 2025
+**Date:** Thursday, Jun 5, 2025  
 **Time:** 19:00 – 20:00
 
 ### Segments
@@ -40,7 +40,7 @@ This timeline helps you avoid duplicate topics and track trainer contributions.
 ---
 
 ## Business Overview
-**Date:** Thursday, May 29, 2025
+**Date:** Thursday, May 29, 2025  
 **Time:** 19:00 – 20:30
 
 ### Segments
@@ -50,7 +50,7 @@ This timeline helps you avoid duplicate topics and track trainer contributions.
 ---
 
 ## 90 Day Challenge
-**Date:** Thursday, May 29, 2025
+**Date:** Thursday, May 29, 2025  
 **Time:** 19:00 – 20:30
 
 ### Segments
@@ -59,7 +59,7 @@ This timeline helps you avoid duplicate topics and track trainer contributions.
 ---
 
 ## Consortium
-**Date:** Friday, May 23, 2025
+**Date:** Friday, May 23, 2025  
 **Time:** 09:00 – 17:00
 
 ### Segments
@@ -68,7 +68,7 @@ This timeline helps you avoid duplicate topics and track trainer contributions.
 ---
 
 ## Become a Pro in 90 Days!
-**Date:** Thursday, May 22, 2025
+**Date:** Thursday, May 22, 2025  
 **Time:** 19:00 – 20:30
 
 ### Segments
