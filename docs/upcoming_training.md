@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Training & Events"
-date: "2025-06-19"
+date: "2025-06-22"
 ---
 
 # Upcoming Training & Events
@@ -33,6 +33,33 @@ Team, let's drive our success forward! Join the training session this Tuesday on
 
 👉 **Call to Action**  
 Ready to empower your financial journey? Show up to our training this Tuesday and experience the change. RSVP today!
+
+---
+
+## Canada Life (Copy)
+
+—
+
+Sunday, June 22
+7:00 PM - 8:30 PM
+
+—
+
+### What You’ll Walk Away With
+
+
+
+📢 **Social Post**  
+—
+
+📨 **Client SMS**  
+—
+
+👥 **Team SMS**  
+—
+
+👉 **Call to Action**  
+—
 
 ---
 
