@@ -1,3 +1,4 @@
+/* /docs/planning/style.css */
 body {
   font-family: sans-serif;
   display: flex;
@@ -6,7 +7,7 @@ body {
 
 .sidebar {
   width: 220px;
-  background: #f0f0f0;
+  background: #f4f4f4;
   padding: 1rem;
   height: 100vh;
   position: sticky;
