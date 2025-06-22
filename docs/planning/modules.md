@@ -9,235 +9,486 @@ title: Modules
 
 Use this directory to review and plan effective training topics.
 
+---
+
 ## Close
 <a id="close"></a>
 
 ### Close
-Code: topic-7
+
+_Code: topic-7_
+
 Promo Hook: —
+
 Status: Active
+
+
+---
 
 ## Inspirational
 <a id="inspirational"></a>
 
 ### Inspire Video
-Code: topic-15
+
+_Code: topic-15_
+
 Tags: Video
+
 Promo Hook: —
+
 Status: Active
+
+
+---
 
 ## Investments & Wealth Building
 <a id="investments-wealth-building"></a>
 
 ### Canada Life Segregated Fund
-Code: topic-6
+
+_Code: topic-6_
+
 Tags: basics, investments, recruiting, sales
+
 Promo Hook: —
+
 Status: Active
+
 ### Investing 101
-Code: mod-004
+
+_Code: mod-004_
+
 Tags: investments
+
 Promo Hook: —
+
 Status: Active
+
 ### Segregated Funds 101
-Code: mod-003
+
+_Code: mod-003_
+
 Promo Hook: —
+
 Status: Active
+
+
+---
 
 ## Opening
 <a id="opening"></a>
 
 ### Open
-Code: topic-24
+
+_Code: topic-24_
+
 Promo Hook: —
+
 Status: Active
+
+
+---
 
 ## Productivity
 <a id="productivity"></a>
 
+<div style="opacity: 0.5;">
 ### Follow Up
-Code: mod-005
+
+_Code: mod-005_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+
+---
 
 ## Uncategorized
 <a id="uncategorized"></a>
 
 ### 90 Day Challenge
-Code: topic-1
+
+_Code: topic-1_
+
 Promo Hook: —
+
 Status: Active
+
 ### Appointment Setting
-Code: topic-2
+
+_Code: topic-2_
+
 Promo Hook: —
+
 Status: Active
+
 ### Building the Pipeline
-Code: topic-3
+
+_Code: topic-3_
+
 Promo Hook: —
+
 Status: Active
+
 ### Build Your 90-Day Business plan
-Code: topic-4
+
+_Code: topic-4_
+
 Promo Hook: —
+
 Status: Active
+
 ### Business Overview
-Code: topic-5
+
+_Code: topic-5_
+
 Objectives:
 - Showcase who we are as a company, what we do for middle income families and how we get paid. The goal of this is to identify potential clients who want a Financial Blueprint or interested in joining the team.
+
 Promo Hook: —
+
 Status: Active
+
 ### Closing Life Insurance
-Code: topic-8
+
+_Code: topic-8_
+
 Promo Hook: —
+
 Status: Active
+
 ### Concepts and FNA
-Code: topic-9
+
+_Code: topic-9_
+
 Promo Hook: —
+
 Status: Active
+
 ### Debt Elimination
-Code: topic-10
+
+_Code: topic-10_
+
 Promo Hook: —
+
 Status: Active
+
 ### Delivering the Policy
-Code: topic-11
+
+_Code: topic-11_
+
 Promo Hook: —
+
 Status: Active
+
 ### FNA Delivery
-Code: topic-12
+
+_Code: topic-12_
+
 Promo Hook: —
+
 Status: Active
+
 ### FNA Master Class
-Code: topic-13
+
+_Code: topic-13_
+
 Promo Hook: —
+
 Status: Active
+
 ### Getting to a Fast Start
-Code: topic-14
+
+_Code: topic-14_
+
 Promo Hook: —
+
 Status: Active
+
+<div style="opacity: 0.5;">
 ### Interview Conversations
-Code: topic-16
+
+_Code: topic-16_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
 ### Investment Basics
-Code: topic-17
+
+_Code: topic-17_
+
 Promo Hook: —
+
 Status: Active
+
 ### Investment Master Class
-Code: topic-18
+
+_Code: topic-18_
+
 Promo Hook: —
+
 Status: Active
+
 ### Investment Planning
-Code: topic-19
+
+_Code: topic-19_
+
 Promo Hook: —
+
 Status: Active
+
 ### Mastering the Orientation
-Code: topic-20
+
+_Code: topic-20_
+
 Promo Hook: —
+
 Status: Active
+
 ### Meeting Attendance
-Code: topic-21
+
+_Code: topic-21_
+
 Promo Hook: —
+
 Status: Active
+
 ### Mental Toughness
-Code: topic-22
+
+_Code: topic-22_
+
 Promo Hook: —
+
 Status: Active
+
 ### Mutual Funds
-Code: topic-23
+
+_Code: topic-23_
+
 Promo Hook: —
+
 Status: Active
+
 ### Our Crusade and Company
-Code: topic-25
+
+_Code: topic-25_
+
 Promo Hook: —
+
 Status: Active
+
 ### Overcoming Life Objections
-Code: topic-26
+
+_Code: topic-26_
+
 Promo Hook: —
+
 Status: Active
+
 ### RVP Locker Room
-Code: topic-27
+
+_Code: topic-27_
+
 Promo Hook: —
+
 Status: Active
+
 ### Secret to 100K
-Code: topic-28
+
+_Code: topic-28_
+
 Promo Hook: —
+
 Status: Active
+
 ### The Art & Science of Recruiting
-Code: topic-29
+
+_Code: topic-29_
+
 Promo Hook: —
+
 Status: Active
+
 ### The Dream of Primerica
-Code: topic-30
+
+_Code: topic-30_
+
 Promo Hook: —
+
 Status: Active
+
 ### The Kitchen Table
-Code: topic-31
+
+_Code: topic-31_
+
 Promo Hook: —
+
 Status: Active
+
 ### Time Management
-Code: topic-32
+
+_Code: topic-32_
+
 Promo Hook: —
+
 Status: Active
+
 ### Understanding Compensation
-Code: topic-33
+
+_Code: topic-33_
+
 Promo Hook: —
+
 Status: Active
+
 ### Why Primerica Life?
-Code: topic-34
+
+_Code: topic-34_
+
 Promo Hook: —
+
 Status: Active
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
+
+<div style="opacity: 0.5;">
 ### undefined
-Code: —
+
+_Code: —_
+
 Promo Hook: —
+
 Status: Inactive
+</div>
