@@ -1,33 +1,65 @@
-/* /docs/planning/style.css */
 body {
-  font-family: sans-serif;
-  display: flex;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  background: #fff;
+  color: #222;
   margin: 0;
-}
-
-.sidebar {
-  width: 220px;
-  background: #f4f4f4;
-  padding: 1rem;
-  height: 100vh;
-  position: sticky;
-  top: 0;
-}
-
-.sidebar h2 {
-  font-size: 1.2rem;
-}
-
-.sidebar ul {
-  list-style: none;
   padding: 0;
 }
 
-.sidebar li {
-  margin: 0.5rem 0;
+.sidebar {
+  background: #f4f4f4;
+  border-right: 1px solid #ddd;
+  padding: 1rem;
+  width: 220px;
+  min-height: 100vh;
+  position: fixed;
 }
 
 .content {
+  margin-left: 240px;
   padding: 2rem;
-  max-width: 900px;
+  max-width: 960px;
+}
+
+h1, h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.2em;
+  margin-top: 2em;
+}
+
+.module-block {
+  margin: 1.5em 0;
+  padding: 1em;
+  border-left: 4px solid #007acc;
+  background: #f9f9f9;
+}
+
+.module-block.inactive {
+  opacity: 0.6;
+  background: #f1f1f1;
+  border-color: #aaa;
+}
+
+.module-block h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.meta {
+  color: #666;
+  font-size: 0.9em;
+  margin: 0.3em 0;
+}
+
+ul {
+  margin: 0.5em 0 1em 1.5em;
+}
+
+.status.active {
+  color: green;
+}
+
+.status.inactive {
+  color: #c00;
 }
