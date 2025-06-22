@@ -3,25 +3,25 @@ layout: default
 title: Internal Details
 ---
 <script src="planning/gate.js"></script>
-# Internal Training Details
+## Canada Life
 
-For trainers only. Please prepare your segment notes in advance.
+**Date:** Sunday, June 22, 2025  
+**Time:** 7:00 PM – 8:30 PM  
+**Location:** Acadia Office
 
-**Training:** Canada Life  
-**Date:** Sunday, Jun 22, 2025  
-**Time:** 19:00 – 20:30
+---
 
-## Topics
+### Segment Details
 
 
-### 90 Day Challenge (module)
+#### 90 Day Challenge (module)
 - **Trainer:** Asim K
 - **Duration:** 15 min
 - **Objectives:** —
 - **Topics:** —
 
 
-### Concepts and FNA (module)
+#### Concepts and FNA (module)
 - **Trainer:** Biboy Brana
 - **Duration:** 15 min
 - **Objectives:** —
