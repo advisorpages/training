@@ -1,16 +1,15 @@
 ---
 layout: default
 title: Trainer Zone
-sidebar_message: This page is only for active trainers. Review your segment details and come prepared.
 ---
 <script src="planning/gate.js"></script>
+# Trainer Zone
+
 ## Become a Pro in 90 Days!
 
 **Date:** Wednesday, June 25, 2025  
 **Time:** 7:00 PM – 8:30 PM  
 **Location:** Whitby, Ontario
-
----
 
 ### Segment Details
 
@@ -25,6 +24,7 @@ sidebar_message: This page is only for active trainers. Review your segment deta
 - **Duration:** 10 min
 - **Objectives:** —
 - **Topics:** —
+
 ---
 
 ## Canada Life
@@ -32,8 +32,6 @@ sidebar_message: This page is only for active trainers. Review your segment deta
 **Date:** Thursday, June 26, 2025  
 **Time:** 7:00 PM – 8:30 PM  
 **Location:** Acadia Office
-
----
 
 ### Segment Details
 
@@ -48,6 +46,17 @@ sidebar_message: This page is only for active trainers. Review your segment deta
 - **Duration:** 15 min
 - **Objectives:** —
 - **Topics:** —
+
+---
+
+## Freedom Thursday
+
+**Date:** Thursday, July 3, 2025  
+**Time:** 7:00 PM – 8:00 PM  
+**Location:** 145 Royal Crest, Unit 44, Markham
+
+### Segment Details
+
 ---
 
 ## Jenn
@@ -56,8 +65,6 @@ sidebar_message: This page is only for active trainers. Review your segment deta
 **Time:** 10:00 AM – 12:00 PM  
 **Location:** Acadia Office
 
----
-
 ### Segment Details
 
 #### Open (module)
@@ -65,4 +72,5 @@ sidebar_message: This page is only for active trainers. Review your segment deta
 - **Duration:** 15 min
 - **Objectives:** —
 - **Topics:** —
+
 ---
