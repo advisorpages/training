@@ -1,32 +1,36 @@
-<div class="sidebar">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/training/planning/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
   {% if page.url contains "/planning" %}
-    <h2>📋 Planning Hub</h2>
-    <ul>
-      <li><a href="/training/planning/">🏠 Home</a></li>
-      <li><a href="/training/planning/past_trainings.html">📅 Past Trainings</a></li>
-      <li><a href="/training/planning/modules.html">📚 Modules</a></li>
-      <li><a href="/training/planning/trainers.html">🧑‍🏫 Trainers</a></li>
-    </ul>
-
-  {% elsif page.url contains "training_details" %}
-    <h2>🧑‍🏫 Trainer Zone</h2>
-    <div class="sidebar-note">
-      <strong>Reminder:</strong><br>
-      This page is for trainers only.<br>
-      Come prepared to lead your assigned segment.<br>
-      Contact your upline for expectations.
+    <div class="sidebar">
+      {% if page.title == "Trainer Zone" %}
+        <h2>👩‍🏫 Trainer Zone</h2>
+        <p>This page is only for active trainers. Review your segment details and come prepared.</p>
+      {% else %}
+        <h2>📋 Planning Hub</h2>
+        <ul class="nav-list">
+          <li><a href="/training/planning/">Home</a></li>
+          <li><a href="/training/planning/past_trainings.html">Past Trainings</a></li>
+          <li><a href="/training/planning/modules.html">Modules</a></li>
+          <li><a href="/training/planning/trainers.html">Trainers</a></li>
+        </ul>
+      {% endif %}
     </div>
-
-  {% elsif page.url contains "upcoming_training" %}
-    <h2>📅 Upcoming Training</h2>
-    <div class="sidebar-note">
-      <strong>Bring guests!</strong><br>
-      This is a live training session.<br>
-      Show up early, be camera ready, and promote with energy!
+  {% elsif page.url contains "/training_details" %}
+    <div class="sidebar">
+      <h2>🔐 Trainer Zone</h2>
+      <p>This is a private page for assigned trainers.</p>
     </div>
-
-  {% else %}
-    <h2>📋 Training Hub</h2>
-    <p>Use this site to access training schedules, segment details, and planning resources.</p>
   {% endif %}
-</div>
+
+  <div class="content">
+    {{ content }}
+  </div>
+</body>
+</html>
