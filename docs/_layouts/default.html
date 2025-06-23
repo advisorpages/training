@@ -5,29 +5,35 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/training/planning/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    .sidebar ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .sidebar li {
+      margin-bottom: 8px;
+    }
+  </style>
 </head>
 <body>
-  {% if page.url contains "/planning" %}
-    <div class="sidebar">
-      {% if page.title == "Trainer Zone" %}
-        <h2>👩‍🏫 Trainer Zone</h2>
-        <p>This page is only for active trainers. Review your segment details and come prepared.</p>
-      {% else %}
-        <h2>📋 Planning Hub</h2>
-        <ul class="nav-list">
-          <li><a href="/training/planning/">Home</a></li>
-          <li><a href="/training/planning/past_trainings.html">Past Trainings</a></li>
-          <li><a href="/training/planning/modules.html">Modules</a></li>
-          <li><a href="/training/planning/trainers.html">Trainers</a></li>
-        </ul>
-      {% endif %}
-    </div>
-  {% elsif page.url contains "/training_details" %}
-    <div class="sidebar">
+
+  <div class="sidebar">
+    {% if page.url contains "training_details" %}
       <h2>🔐 Trainer Zone</h2>
-      <p>This is a private page for assigned trainers.</p>
-    </div>
-  {% endif %}
+      <p>This page is only for active trainers. Review your segment details and come prepared.</p>
+    {% elsif page.url contains "upcoming_training" %}
+      <h2>📣 Upcoming Training</h2>
+      <p>Explore the next big session and get ready to show up strong.</p>
+    {% else %}
+      <h2>📋 Planning Hub</h2>
+      <ul>
+        <li><a href="/training/planning/">🏠 Home</a></li>
+        <li><a href="/training/planning/past_trainings.html">📅 Past Trainings</a></li>
+        <li><a href="/training/planning/modules.html">📚 Modules</a></li>
+        <li><a href="/training/planning/trainers.html">🧑‍🏫 Trainers</a></li>
+      </ul>
+    {% endif %}
+  </div>
 
   <div class="content">
     {{ content }}
