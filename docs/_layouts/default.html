@@ -13,6 +13,13 @@
     .sidebar li {
       margin-bottom: 8px;
     }
+    .sidebar h2 {
+      margin-bottom: 0.5em;
+    }
+    .sidebar p {
+      font-size: 0.9em;
+      margin-top: 0;
+    }
   </style>
 </head>
 <body>
@@ -24,15 +31,22 @@
     {% elsif page.url contains "upcoming_training" %}
       <h2>📣 Upcoming Training</h2>
       <p>Explore the next big session and get ready to show up strong.</p>
+    {% elsif page.url contains "events" %}
+      <h2>🎉 Events</h2>
+      <p>Live sessions and special guest presentations open to all.</p>
+    {% elsif page.url contains "incentives" %}
+      <h2>🎯 Team Incentives</h2>
+      <p>Unlock rewards, contests, and challenges to grow your business.</p>
     {% else %}
       <h2>📋 Planning Hub</h2>
-      <ul>
-        <li><a href="/training/planning/">🏠 Home</a></li>
-        <li><a href="/training/planning/past_trainings.html">📅 Past Trainings</a></li>
-        <li><a href="/training/planning/modules.html">📚 Modules</a></li>
-        <li><a href="/training/planning/trainers.html">🧑‍🏫 Trainers</a></li>
-      </ul>
     {% endif %}
+
+    <ul>
+      <li><a href="/training/_training/upcoming_training/">📣 Upcoming Training</a></li>
+      <li><a href="/training/_training/events/">🎉 Events</a></li>
+      <li><a href="/training/_training/incentives/">🎯 Incentives</a></li>
+      <li><a href="/training/_training/training_details/">🔐 Trainer Zone</a></li>
+    </ul>
   </div>
 
   <div class="content">
