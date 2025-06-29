@@ -1,51 +1,15 @@
----
-layout: default
-title: Welcome
----
-
-<h1>📅 Weekly Overview</h1>
-
-<!-- Trainings -->
-<h2>Upcoming Training</h2>
-<ul>
-  {% assign upcoming = site.training | sort: "training_date" %}
-  {% for t in upcoming %}
-    <li>
-      <strong>{{ t.training_date | date: "%A, %B %d" }}</strong> – 
-      <a href="{{ t.url }}">{{ t.title }}</a><br/>
-      <em>{{ t.promo_kit.headline }}</em>
-    </li>
-  {% endfor %}
-</ul>
-
-<!-- Events -->
-<h2>🗓️ Events</h2>
-<ul>
-  {% assign events = site.events | sort: "start_date" %}
-  {% for e in events %}
-    {% if e.end_date >= site.time %}
-      <li>
-        <strong>{{ e.start_date | date: "%b %d" }}</strong> – 
-        <a href="{{ e.url }}">{{ e.title }}</a><br/>
-        <em>{{ e.promo.headline }}</em>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-<!-- Incentives -->
-<h2>🎯 Incentives</h2>
-<ul>
-  {% assign active = site.incentives | sort: "end_date" %}
-  {% for i in active %}
-    {% if i.end_date >= site.time %}
-      <li>
-        <a href="{{ i.url }}">{{ i.title }}</a><br/>
-        <small>Ends {{ i.end_date | date: "%b %d" }}</small> – 
-        <em>{{ i.reward }}</em>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-
-<p><a href="/trainers.html">🔐 Trainer Hub (password required)</a></p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Training Hub</title>
+</head>
+<body>
+  <h1>📚 Welcome to the Training Hub</h1>
+  <ul>
+    <li><a href="/_training/upcoming.md">📅 Upcoming Trainings</a></li>
+    <li><a href="/_events/events.md">🎉 Events</a></li>
+    <li><a href="/_incentives/incentives.md">🏆 Incentives</a></li>
+    <li><a href="/_trainers_hub/trainers.md">🧠 Trainer Hub</a></li>
+  </ul>
+</body>
+</html>

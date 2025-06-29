@@ -1,13 +1,3 @@
-collections:
-  training:
-    output: true
-    permalink: /training/:name/
-  trainers_hub:
-    output: true
-    permalink: /trainers_hub/:name/
-  events:
-    output: true
-    permalink: /events/:name/
-  incentives:
-    output: true
-    permalink: /incentives/:name/
+title: Training Hub
+markdown: kramdown
+theme: minima
