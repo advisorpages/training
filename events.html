@@ -1,0 +1,20 @@
+---
+layout: default
+title: Upcoming Events
+---
+
+<h1>Upcoming Events</h1>
+
+<ul>
+  {% assign active = site.events | sort: "start_date" %}
+  {% for e in active %}
+    {% if e.end_date >= site.time %}
+      <li>
+        <h2>{{ e.title }}</h2>
+        <p>{{ e.promo.headline }}</p>
+        <p>{{ e.promo.body }}</p>
+        <p><em>{{ e.promo.cta }}</em></p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

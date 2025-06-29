@@ -1,6 +1,0 @@
-title: Training Site
-description: Static training posts
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
