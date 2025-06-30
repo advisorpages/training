@@ -3,50 +3,44 @@
 <head>
   <meta charset="UTF-8">
   <title>📚 Training Hub</title>
-  <style>
-    body { font-family: sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
-    header { background: #333; color: white; padding: 1rem; text-align: center; }
-    nav { background: #555; display: flex; justify-content: center; gap: 2rem; padding: 1rem 0; }
-    nav a { color: white; text-decoration: none; font-weight: bold; }
-    nav a:hover { text-decoration: underline; }
-    main { padding: 2rem; max-width: 960px; margin: auto; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    section { margin-bottom: 3rem; }
-    h2 { margin-top: 1.5rem; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem; }
-    .summary { margin: 0.5rem 0; font-size: 0.95rem; color: #444; }
-    .read-more { display: inline-block; margin-top: 0.5rem; background: #007acc; color: white; padding: 0.3rem 0.7rem; text-decoration: none; border-radius: 4px; font-size: 0.9rem; }
-    .read-more:hover { background: #005a9c; }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-  <header>
-    <h1>📚 Welcome to the Training Hub</h1>
+<body class="bg-gray-100 text-gray-800">
+  <header class="bg-gray-800 text-white py-6 text-center">
+    <h1 class="text-2xl sm:text-3xl font-bold">📚 Welcome to the Training Hub</h1>
   </header>
-  <nav>
-    <a href="/training/upcoming.html">📅 Trainings</a>
-    <a href="https://advisorpages.github.io/eventsites/">🎉 Events</a>
-    <a href="/incentives/incentives.html">🏆 Incentives</a>
-    <a href="/trainers_hub/trainers.html">🧠 Trainer Hub</a>
+
+  <nav class="bg-gray-700 flex flex-wrap justify-center gap-4 sm:gap-8 py-4 text-sm sm:text-base">
+    <a href="/training/upcoming.html" class="text-white font-semibold hover:underline">📅 Trainings</a>
+    <a href="https://advisorpages.github.io/eventsites/" class="text-white font-semibold hover:underline">🎉 Events</a>
+    <a href="/incentives/incentives.html" class="text-white font-semibold hover:underline">🏆 Incentives</a>
+    <a href="/trainers_hub/trainers.html" class="text-white font-semibold hover:underline">🧠 Trainer Hub</a>
   </nav>
-  <main>
+
+  <main class="max-w-3xl mx-auto bg-white shadow-md rounded-lg p-6 my-8 space-y-8">
     <section>
-      <h2>📅 Upcoming Trainings</h2>
-      <p class="summary">Stay sharp with our weekly team trainings focused on mindset, sales, and recruiting. Updated weekly based on the upcoming schedule.</p>
-      <a class="read-more" href="/training/upcoming.html">View Training Details</a>
+      <h2 class="text-xl font-semibold border-b border-gray-200 pb-2 mb-2">📅 Upcoming Trainings</h2>
+      <p class="text-sm text-gray-600 mb-3">Stay sharp with our weekly team trainings focused on mindset, sales, and recruiting. Updated weekly based on the upcoming schedule.</p>
+      <a href="/training/upcoming.html" class="inline-block bg-blue-600 hover:bg-blue-800 text-white px-4 py-2 text-sm rounded">View Training Details</a>
     </section>
+
     <section>
-      <h2>🎉 Events</h2>
-      <p class="summary">Don't miss our high-energy events designed to build belief, celebrate success, and create momentum across your team and guests.</p>
-      <a class="read-more" href="https://advisorpages.github.io/eventsites/">Explore Events</a>
+      <h2 class="text-xl font-semibold border-b border-gray-200 pb-2 mb-2">🎉 Events</h2>
+      <p class="text-sm text-gray-600 mb-3">Don't miss our high-energy events designed to build belief, celebrate success, and create momentum across your team and guests.</p>
+      <a href="https://advisorpages.github.io/eventsites/" class="inline-block bg-blue-600 hover:bg-blue-800 text-white px-4 py-2 text-sm rounded">Explore Events</a>
     </section>
+
     <section>
-      <h2>🏆 Incentives</h2>
-      <p class="summary">Check out active team incentives you can qualify for — designed to drive action, increase production, and reward growth.</p>
-      <a class="read-more" href="/incentives/incentives.html">See Incentives</a>
+      <h2 class="text-xl font-semibold border-b border-gray-200 pb-2 mb-2">🏆 Incentives</h2>
+      <p class="text-sm text-gray-600 mb-3">Check out active team incentives you can qualify for — designed to drive action, increase production, and reward growth.</p>
+      <a href="/incentives/incentives.html" class="inline-block bg-blue-600 hover:bg-blue-800 text-white px-4 py-2 text-sm rounded">See Incentives</a>
     </section>
+
     <section>
-      <h2>🧠 Trainer Hub</h2>
-      <p class="summary">Assigned to train? Use this internal resource to view your training date, segment breakdown, and notes to prepare with confidence.</p>
-      <a class="read-more" href="/trainers_hub/trainers.html">Open Trainer Notes</a>
+      <h2 class="text-xl font-semibold border-b border-gray-200 pb-2 mb-2">🧠 Trainer Hub</h2>
+      <p class="text-sm text-gray-600 mb-3">Assigned to train? Use this internal resource to view your training date, segment breakdown, and notes to prepare with confidence.</p>
+      <a href="/trainers_hub/trainers.html" class="inline-block bg-blue-600 hover:bg-blue-800 text-white px-4 py-2 text-sm rounded">Open Trainer Notes</a>
     </section>
   </main>
 </body>
