@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Trainings"
 layout: "base.njk"
-permalink: "/training/upcoming.html"
+permalink: "training/upcoming.html"
 type: "event"
 audience: "team"
 ---

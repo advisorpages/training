@@ -1,7 +1,7 @@
 ---
 title: "Team Incentives"
 layout: "base.njk"
-permalink: "/incentives/incentives.html"
+permalink: "incentives/incentives.html"
 type: "incentive"
 audience: "public"
 ---
