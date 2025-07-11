@@ -1,7 +1,7 @@
 ---
 title: "Trainer Hub"
 layout: "base.njk"
-permalink: "/trainers.html"
+permalink: "trainers.html"
 type: "trainer_hub"
 audience: "trainers"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "All Trainings & Modules"
 layout: "base.njk"
-permalink: "/events.html"
+permalink: "events.html"
 type: "developer"
 audience: "internal"
 ---
