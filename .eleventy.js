@@ -1,8 +1,7 @@
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginNavigation = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
-  // 🧩 Register plugin
-  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(pluginNavigation); // ✅ this is what you're missing
 
   return {
     markdownTemplateEngine: "njk",
