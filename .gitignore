@@ -1,0 +1,6 @@
+_site_local/
+_site/
+node_modules/
+dist/
+.zshrc
+.eleventyignore
