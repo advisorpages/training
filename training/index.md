@@ -1,5 +1,5 @@
 ---
-layout: "base"
+layout: "base.njk"
 title: "Upcoming Trainings"
 nav_title: "📅 Trainings"
 nav_order: 2
