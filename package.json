@@ -1,22 +1,24 @@
 {
   "name": "training",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": ".eleventy.js",
   "scripts": {
-    "build": "eleventy",
-    "build:css": "npx @tailwindcss/cli -i ./input.css -o ./_site/styles.css --minify",
-    "start": "npm run build && npm run build:css"
+    "build": "npx @11ty/eleventy --input=. --output=_site",
+    "build:local": "npx @11ty/eleventy --input=. --output=_site_local",
+    "build:css": "./node_modules/.bin/tailwindcss -c tailwind.config.js -i input.css -o _site_local/styles.css --minify",
+    "start:local": "npm run build:local && npm run build:css && open _site_local/index.html"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-navigation": "^1.0.4",
     "@tailwindcss/cli": "^4.1.11",
-    "tailwindcss": "^4.1.11",
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
-    "autoprefixer": "^10.4.21"
-  }
+    "tailwindcss": "^4.1.11"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

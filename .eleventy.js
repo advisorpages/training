@@ -1,17 +1,15 @@
-const pluginNavigation = require("@11ty/eleventy-navigation");
+const { DateTime } = require("luxon");
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(pluginNavigation); // ✅ this is what you're missing
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addFilter("date", (value, format = "LLL dd, yyyy") => {
+    return DateTime.fromJSDate(value, { zone: "utc" }).toFormat(format);
+  });
 
   return {
-    markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
     dir: {
       input: ".",
+      output: "_site_local",
       includes: "_includes",
-      layouts: "_includes",
-      output: "_site"
-    }
+    },
   };
 };

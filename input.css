@@ -1,4 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@tailwind typography;
+
+@layer components {
+  .prose-custom {
+    @apply prose prose-lg prose-slate;
+  }
+}

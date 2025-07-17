@@ -1,38 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>{{ title or "Team Hub" }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#1f2937" />
-  <link href="/styles.css" rel="stylesheet" />
-</head>
-<body class="bg-gray-50 text-gray-800 font-sans min-h-screen flex flex-col">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title or "Team Hub" }}</title>
 
-  <!-- 🔝 Navigation -->
-  <header class="bg-gray-900 text-white sticky top-0 z-50 shadow">
-    <nav class="max-w-6xl mx-auto flex justify-between items-center px-6 py-4 text-sm sm:text-base">
-      <a href="/" class="font-bold text-lg tracking-wide whitespace-nowrap">🏠 Team Hub</a>
-      <div class="hidden sm:flex gap-4">
-        {% for item in collections.all | eleventyNavigation %}
-          <a href="{{ item.url }}" class="hover:underline font-semibold whitespace-nowrap">
-            {{ item.data.nav_title or item.data.title }}
-          </a>
-        {% endfor %}
+    {# ✅ Use relative path so it works locally and on GitHub Pages #}
+    <link rel="stylesheet" href="{{ 'styles.css' | url }}" />
+  </head>
+  <body class="bg-gray-100 text-gray-900 font-sans leading-relaxed">
+    <header class="bg-white shadow-md py-4 mb-8">
+      <div class="max-w-5xl mx-auto px-4">
+        <h1 class="text-xl font-bold text-indigo-700">
+          {{ title or "Team Hub" }}
+        </h1>
       </div>
-    </nav>
-  </header>
+    </header>
 
-  <!-- 🧱 Page Content -->
-  <main class="flex-1 w-full max-w-4xl mx-auto px-6 py-10 prose prose-slate prose-sm sm:prose-base">
-    {{ content | safe }}
-  </main>
+    <main class="max-w-5xl mx-auto px-4 prose prose-custom">
+      {{ content | safe }}
+    </main>
 
-  <!-- 🔻 Footer -->
-  <footer class="text-center text-gray-500 text-sm py-8 border-t mt-10">
-    <p>Part of the <strong>Team Tribe Training Hub</strong></p>
-    <p><a href="https://advisorpages.ca" class="text-blue-600 hover:underline">advisorpages.ca</a></p>
-  </footer>
-
-</body>
+    <footer class="mt-12 text-center text-sm text-gray-500 py-8">
+      &copy; {{ (collections.all | first).date | date("yyyy") if (collections.all | first).date else "2025" }} Team Hub. All rights reserved.
+    </footer>
+  </body>
 </html>

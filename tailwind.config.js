@@ -1,13 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./**/*.{html,njk,md}",           // ✅ recursively scan ALL folders
-    "./_data/**/*.{json,js}"          // ✅ if you store class names in data
+    "./**/*.html",     // Your static HTML files
+    "./**/*.njk",      // Nunjucks templates
+    "!./_site{,/**}",  // exclude _site and everything inside
+    "!./node_modules{,/**}"
   ],
   theme: {
     extend: {},
   },
   plugins: [
-    require('@tailwindcss/typography'), // ✅ for `.prose` styling
+    require('@tailwindcss/typography'),
   ],
 }
