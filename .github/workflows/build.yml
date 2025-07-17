@@ -50,7 +50,7 @@ jobs:
         run: npm run build
 
       - name: 🎨 Build Tailwind CSS
-        run: ./node_modules/.bin/tailwindcss -i input.css -o _site/styles.css --minify
+        run: npx @tailwindcss/cli -i ./input.css -o ./_site/styles.css --minify
 
       - name: 📝 Write CNAME file
         run: echo "grow.8531.ca" > _site/CNAME
