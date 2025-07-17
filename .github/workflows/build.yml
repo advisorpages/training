@@ -1,0 +1,61 @@
+name: Deploy Eleventy + TailwindCSS to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: 📦 Install Dependencies
+        run: npm ci
+
+      - name: 🗂️ List repository contents
+        run: ls -R .
+
+      - name: ⚙️ Check Eleventy config presence
+        run: |
+          if [ -f .eleventy.js ]; then
+            echo "✅ .eleventy.js found"
+          else
+            echo "❌ .eleventy.js missing"
+            exit 1
+          fi
+
+      - name: 🧐 Dry‑run Eleventy
+        run: npx @11ty/eleventy --dryrun
+
+      - name: 🧐 Check Eleventy version
+        run: npx @11ty/eleventy --version
+
+      - name: 🧹 Clean Eleventy cache
+        run: rm -rf .eleventy-cache
+
+      - name: 🏗 Build Eleventy + Tailwind
+        run: npm run build
+
+      - name: 📝 Write CNAME file
+        run: echo "grow.8531.ca" > _site/CNAME
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site
+          publish_branch: gh-pages
+          force_orphan: true
