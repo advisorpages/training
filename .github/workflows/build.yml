@@ -59,3 +59,4 @@ jobs:
           publish_dir: _site
           publish_branch: gh-pages
           force_orphan: true
+          force: true     # 👈 Add this line to always overwrite cleanly
