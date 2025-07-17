@@ -3,8 +3,8 @@ layout: "base"
 title: "Developer Dashboard"
 nav_title: "🛠 Developer"
 nav_order: 4
-permalink: "/trainers_hub/index.html"
 pageType: "developer"
+permalink: "/trainers_hub/index.html"
 ---
 
 # 🛠 Trainer Hub
@@ -55,7 +55,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-1</p>
   <h3 class="text-md font-semibold text-gray-900">90 Day Challenges</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -73,7 +72,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-2</p>
   <h3 class="text-md font-semibold text-gray-900">Appointment Setting</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -91,7 +89,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-3</p>
   <h3 class="text-md font-semibold text-gray-900">Building the Pipeline</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -109,7 +106,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-4</p>
   <h3 class="text-md font-semibold text-gray-900">Build Your 90-Day Business plan</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -127,7 +123,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-5</p>
   <h3 class="text-md font-semibold text-gray-900">Business Overview - Who We Are & How We Help</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -145,7 +140,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-6</p>
   <h3 class="text-md font-semibold text-gray-900">Canada Life Segregated Fund</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -163,7 +157,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-7</p>
   <h3 class="text-md font-semibold text-gray-900">Close</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -181,7 +174,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-8</p>
   <h3 class="text-md font-semibold text-gray-900">Closing Life Insurance</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -199,7 +191,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-9</p>
   <h3 class="text-md font-semibold text-gray-900">Concepts and FNA</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -217,7 +208,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-10</p>
   <h3 class="text-md font-semibold text-gray-900">Debt Elimination</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -235,7 +225,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-11</p>
   <h3 class="text-md font-semibold text-gray-900">Delivering the Policy</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -253,7 +242,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-12</p>
   <h3 class="text-md font-semibold text-gray-900">FNA Delivery</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -271,7 +259,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-13</p>
   <h3 class="text-md font-semibold text-gray-900">FNA Master Class</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -289,7 +276,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-14</p>
   <h3 class="text-md font-semibold text-gray-900">Getting to a Fast Start</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -307,7 +293,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-15</p>
   <h3 class="text-md font-semibold text-gray-900">Inspire Video</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -325,7 +310,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: mod-004</p>
   <h3 class="text-md font-semibold text-gray-900">Investing 101</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -343,7 +327,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-17</p>
   <h3 class="text-md font-semibold text-gray-900">Investment Basics</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -361,7 +344,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-18</p>
   <h3 class="text-md font-semibold text-gray-900">Investment Master Class</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -379,7 +361,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-19</p>
   <h3 class="text-md font-semibold text-gray-900">Investment Planning</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -397,7 +378,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-20</p>
   <h3 class="text-md font-semibold text-gray-900">Mastering the Orientation</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -415,7 +395,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-21</p>
   <h3 class="text-md font-semibold text-gray-900">Meeting Attendance</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -433,7 +412,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-22</p>
   <h3 class="text-md font-semibold text-gray-900">Mental Toughness</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -451,7 +429,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-23</p>
   <h3 class="text-md font-semibold text-gray-900">Mutual Funds</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -469,7 +446,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-24</p>
   <h3 class="text-md font-semibold text-gray-900">Open</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -487,7 +463,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-25</p>
   <h3 class="text-md font-semibold text-gray-900">Our Crusade and Company</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -505,7 +480,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-26</p>
   <h3 class="text-md font-semibold text-gray-900">Overcoming Life Objections</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -523,7 +497,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-27</p>
   <h3 class="text-md font-semibold text-gray-900">RVP Locker Room</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -541,7 +514,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-28</p>
   <h3 class="text-md font-semibold text-gray-900">Secret to 100K</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -559,7 +531,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: mod-003</p>
   <h3 class="text-md font-semibold text-gray-900">Segregated Funds 101</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -577,7 +548,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: mod-007</p>
   <h3 class="text-md font-semibold text-gray-900">Simple Follow-Up That Works</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -595,7 +565,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-29</p>
   <h3 class="text-md font-semibold text-gray-900">The Art & Science of Recruiting</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -613,7 +582,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-30</p>
   <h3 class="text-md font-semibold text-gray-900">The Dream of Primerica</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -631,7 +599,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-31</p>
   <h3 class="text-md font-semibold text-gray-900">The Kitchen Table</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -649,7 +616,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-32</p>
   <h3 class="text-md font-semibold text-gray-900">Time Management</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -667,7 +633,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-33</p>
   <h3 class="text-md font-semibold text-gray-900">Understanding Compensation</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
@@ -685,7 +650,6 @@ pageType: "developer"
   <p class="text-xs font-mono text-gray-500 mb-1">Code: topic-34</p>
   <h3 class="text-md font-semibold text-gray-900">Why Primerica Life?</h3>
   <p class="text-sm text-gray-700 mb-1">No description available.</p>
-
   <details class="mt-2">
     <summary class="text-blue-600 text-sm cursor-pointer">Show more</summary>
     <div class="text-sm text-gray-700 mt-2 space-y-1">
