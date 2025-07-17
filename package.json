@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
-    "build:css": "tailwindcss -i input.css -o _site/styles.css --minify",
+    "build:css": "npx @tailwindcss/cli -i ./input.css -o ./_site/styles.css --minify",
     "start": "npm run build && npm run build:css"
   },
   "keywords": [],
@@ -14,10 +14,9 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-navigation": "^1.0.4",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6"
-  },
-  "dependencies": {
-    "tailwindcss": "^4.1.11"
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11",
+    "postcss": "^8.5.6",
+    "autoprefixer": "^10.4.21"
   }
 }
