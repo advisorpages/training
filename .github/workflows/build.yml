@@ -23,7 +23,7 @@ jobs:
           cache: 'npm'
 
       - name: 📦 Install Dependencies
-        run: npm ci
+        run: npm install
 
       - name: 🗂️ List repository contents
         run: ls -R .
