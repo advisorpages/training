@@ -46,8 +46,11 @@ jobs:
       - name: 🧹 Clean Eleventy cache
         run: rm -rf .eleventy-cache
 
-      - name: 🏗 Build Eleventy + Tailwind
-        run: npm run start  # ⬅️ runs both eleventy + tailwindcss
+      - name: 🏗 Build Eleventy
+        run: npm run build
+
+      - name: 🎨 Build Tailwind CSS
+        run: npx tailwindcss -i input.css -o _site/styles.css --minify
 
       - name: 📝 Write CNAME file
         run: echo "grow.8531.ca" > _site/CNAME
