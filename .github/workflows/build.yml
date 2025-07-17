@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Optional: good for history-based builds
 
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v4
@@ -23,10 +25,7 @@ jobs:
           cache: 'npm'
 
       - name: 📦 Install Dependencies
-        run: npm install
-
-      - name: 🗂️ List repository contents
-        run: ls -R .
+        run: npm ci  # Faster + safer than `npm install` in CI
 
       - name: ⚙️ Check Eleventy config presence
         run: |
@@ -36,12 +35,6 @@ jobs:
             echo "❌ .eleventy.js missing"
             exit 1
           fi
-
-      - name: 🧐 Dry‑run Eleventy
-        run: npx @11ty/eleventy --dryrun
-
-      - name: 🧐 Check Eleventy version
-        run: npx @11ty/eleventy --version
 
       - name: 🧹 Clean Eleventy cache
         run: rm -rf .eleventy-cache
