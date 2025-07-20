@@ -42,8 +42,25 @@ _No items found._
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">Friday Locker Room</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-18T00:00:00.000Z<br>🕒 10:00:00 – 11:30:00</p>
+  <h3 class="text-lg font-semibold">Winning Mindset with Chris Koob (Auto)</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-21T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
+  <div class="text-sm text-gray-700 mt-2 space-y-2">
+    <p><strong>Headline:</strong> </p>
+    <p><strong>About this:</strong> </p>
+    <p><strong>Benefits to You:</strong> Discover the mindset and habits that fuel massive success—and how you can apply them right now.</p>
+    <p><strong>Why This Matters:</strong> This could be the turning point in your career</p>
+    <p><strong>Call to Action:</strong> </p>
+    <p><strong>Text Your Team:</strong><br><code>🔥 Chris Koob is in the building! 10AM sharp at Acadia — don’t miss the mindset that built a $2M business.</code></p>
+    <p><strong>Post on Social Media:</strong><br><code>Ready to think like a $2M earner? Join us for a powerful mindset training with Chris Koob — Monday at 10AM, Acadia Office. Let’s build something big. 💥 #MindsetMatters #TeamTraining #LevelUp</code></p>
+  </div>
+</div>
+
+
+<!-- 📅 Training -->
+<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded shadow">
+  <div class="text-sm text-gray-500 mb-1">📘 Training</div>
+  <h3 class="text-lg font-semibold">Friday Locker Room (Auto)</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 10:00:00 – 11:30:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     <p><strong>Headline:</strong> </p>
     <p><strong>About this:</strong> </p>
@@ -59,16 +76,16 @@ _No items found._
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">Winning Mindset with Chris Koob (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-21T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
+  <h3 class="text-lg font-semibold">Investing 101: Make It Make Sense</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 19:00:00 – 20:30:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     <p><strong>Headline:</strong> </p>
     <p><strong>About this:</strong> </p>
-    <p><strong>Benefits to You:</strong> Discover the mindset and habits that fuel massive success—and how you can apply them right now.</p>
-    <p><strong>Why This Matters:</strong> This could be the turning point in your career</p>
+    <p><strong>Benefits to You:</strong> You’ll walk away with simple ways to talk about investing, tools to build client trust, and a stronger foundation for helping your team grow their financial confidence.</p>
+    <p><strong>Why This Matters:</strong> When you know how to explain things clearly, clients trust you faster and your confidence soars.</p>
     <p><strong>Call to Action:</strong> </p>
-    <p><strong>Text Your Team:</strong><br><code>🔥 Chris Koob is in the building! 10AM sharp at Acadia — don’t miss the mindset that built a $2M business.</code></p>
-    <p><strong>Post on Social Media:</strong><br><code>Ready to think like a $2M earner? Join us for a powerful mindset training with Chris Koob — Monday at 10AM, Acadia Office. Let’s build something big. 💥 #MindsetMatters #TeamTraining #LevelUp</code></p>
+    <p><strong>Text Your Team:</strong><br><code>REMINDER: 'Investing 101' is this Friday @ 7PM (Acadia Office). Come ready to learn how to explain investing clearly and build trust with clients. Show up early!</code></p>
+    <p><strong>Post on Social Media:</strong><br><code>📢 Want to make investing easy to explain? Join us Friday at 7PM at the Acadia Office for a hands-on team training. Learn how to break down investing into simple, relatable language. Grow your confidence and help more clients! 💼📈 #TeamTraining #InvestingMadeSimple</code></p>
   </div>
 </div>
 
