@@ -5,12 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }}</title>
 
-    <!-- ✅ This line ensures Tailwind styles load -->
+    <!-- ✅ Google Font (optional) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- ✅ Use root-relative path for consistent styling -->
     <link rel="stylesheet" href="./styles.css">
   </head>
-  <body class="font-sans text-gray-900">
-    <main class="max-w-3xl mx-auto p-6">
-      {{ content | safe }}
+
+  <body class="font-sans text-gray-900 bg-gray-50 min-h-screen">
+
+    <!-- ✅ Sticky Navigation -->
+    <header class="bg-white shadow sticky top-0 z-50">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+        <div class="text-xl font-bold text-blue-700">
+          <a href="/">Training Hub</a>
+        </div>
+        <ul class="flex space-x-6 text-gray-700 text-sm font-medium">
+          <li><a href="/" class="hover:text-blue-600">Home</a></li>
+          <li><a href="/training/" class="hover:text-blue-600">Trainings</a></li>
+          <li><a href="/events/" class="hover:text-blue-600">Events</a></li>
+          <li><a href="/incentives/" class="hover:text-blue-600">Incentives</a></li>
+          <li><a href="/trainers_hub/" class="hover:text-blue-600">Trainer Hub</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- ✅ Main content with improved typography -->
+    <main class="max-w-4xl mx-auto p-6">
+      <article class="prose lg:prose-lg max-w-none">
+        {{ content | safe }}
+      </article>
     </main>
+
   </body>
 </html>
