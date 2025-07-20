@@ -1,0 +1,16 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "eleventy && npm run build:css",
+    "build:css": "tailwindcss -i input.css -o _site/styles.css --minify",
+    "dev": "eleventy --serve & npm run watch:css",
+    "watch:css": "tailwindcss -i input.css -o _site/styles.css --watch"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.3.3"
+  }
+}
