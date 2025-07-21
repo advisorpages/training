@@ -14,7 +14,17 @@ pageType: "home"
 ## 🎁 Current Incentives
 
 <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-6 mb-10">
-<div class="text-gray-500 italic">_No current incentives found._</div>
+
+<!-- 🎁 Incentive -->
+<div class="border-l-4 border-yellow-500 bg-yellow-50 p-4 rounded-lg shadow">
+  <div class="text-sm text-gray-500 mb-1">💰 Incentive</div>
+  <h3 class="text-lg font-semibold">Niagara Falls Leadership Retreat</h3>
+  <p class="text-sm text-gray-700 mb-2">📅 2025-08-08T00:00:00.000Z – 2025-08-09T00:00:00.000Z</p>
+  <p class="text-sm text-gray-800">Join us for an exclusive day of inspiration and connection! We'll start the morning with a powerful visit to Luciano's office, followed by an overnight retreat in Niagara Falls for all qualifiers. This is your chance to unwind, bond with top performers, and recharge for the next level.</p>
+  
+  <a href="/incentives/" class="inline-block mt-2 text-yellow-700 font-semibold hover:underline">View Incentives →</a>
+</div>
+
 </div>
 <hr class="my-6 border-t border-gray-300">
 
@@ -26,7 +36,7 @@ pageType: "home"
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
   <h3 class="text-lg font-semibold">5 Years to Freedom</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-20T00:00:00.000Z<br>🕒 10:00:00 – 12:00:00</p>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-20T00:00:00.000Z<br>🕒 10:00:00 – 12:00:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     
     
@@ -43,7 +53,7 @@ pageType: "home"
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
   <h3 class="text-lg font-semibold">Winning Mindset with Chris Koob (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-21T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-21T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     
     
@@ -60,7 +70,7 @@ pageType: "home"
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
   <h3 class="text-lg font-semibold">Friday Locker Room (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 10:00:00 – 11:30:00</p>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 10:00:00 – 11:30:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     
     
@@ -77,7 +87,7 @@ pageType: "home"
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
   <h3 class="text-lg font-semibold">Investing 101: Make It Make Sense</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 19:00:00 – 20:30:00</p>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 19:00:00 – 20:30:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     
     
@@ -94,7 +104,7 @@ pageType: "home"
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
   <h3 class="text-lg font-semibold">Winning Mindset with Chris Koob (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 TBD<br>🗓 2025-07-28T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-28T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
   <div class="text-sm text-gray-700 mt-2 space-y-2">
     
     
