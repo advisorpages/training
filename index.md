@@ -19,10 +19,15 @@ pageType: "home"
 <div class="border-l-4 border-yellow-500 bg-yellow-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">💰 Incentive</div>
   <h3 class="text-lg font-semibold">Niagara Falls Leadership Retreat</h3>
-  <p class="text-sm text-gray-700 mb-2">📅 2025-08-08T00:00:00.000Z – 2025-08-09T00:00:00.000Z</p>
+  <p class="text-sm text-gray-700 mb-2">📅 Contest Period: Fri, Aug 8 – Sat, Aug 9</p>
   <p class="text-sm text-gray-800">Join us for an exclusive day of inspiration and connection! We'll start the morning with a powerful visit to Luciano's office, followed by an overnight retreat in Niagara Falls for all qualifiers. This is your chance to unwind, bond with top performers, and recharge for the next level.</p>
-  
-  <a href="/incentives/" class="inline-block mt-2 text-yellow-700 font-semibold hover:underline">View Incentives →</a>
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2">
+      <strong>Eligibility:</strong> Achieve 3 sales of $3,000 or more during the month of July<br>
+      <strong>Reward:</strong> Overnight getaway in Niagara Falls with fellow qualifiers
+    </div>
+  </details>
 </div>
 
 </div>
@@ -35,87 +40,91 @@ pageType: "home"
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">5 Years to Freedom</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-20T00:00:00.000Z<br>🕒 10:00:00 – 12:00:00</p>
-  <div class="text-sm text-gray-700 mt-2 space-y-2">
-    
-    
-    <p><strong>Benefits to You:</strong> Discover how to create long-term success in a business that helps others while transforming your own life.</p>
-    <p><strong>Why This Matters:</strong> Success is earned—now it's your turn.</p>
-    
-    <p><strong>Text Your Team:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">🔥 Don't miss this! July Recognition & Vision Event — Sun @ 10AM. Jennifer Carnegie (Hall of Fame!) is flying in to pour into us. Bring a guest. Be early. Be ready.</span></p>
-    <p><strong>Post on Social Media:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">This Sunday @ 10AM — Celebrate progress and fuel your vision at our July Recognition & Vision Event. Featuring Hall of Fame leader Jennifer Carnegie, who built a business—and a life—through 5 years of focused effort. Don't miss this chance to learn, grow, and bring someone with you. 🚀 #Leadership #Motivation #TeamGrowth</span></p>
-  </div>
+  <div class="text-xs italic">5 Years to Freedom</div>
+  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Sun, Jul 20<br>🕒 10:00 am – 12:00 pm</p>
+  <p class="text-sm text-gray-700"></p>
+  <p class="text-sm text-gray-700"></p>
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      
+      
+      <p><strong>Guest Speaker:</strong><br>Jennifer Carnegie — 30+ years of experience
+National Sales Director
+Inducted to Primerica Hall of Fame in July 2025</p>
+      <p><strong>Text Your Clients:</strong><br>You're invited! 🎉 Sun July 20 @ 10AM – Acadia Office. See how 5 years of focus can change your life. Featuring Hall of Fame speaker Jennifer Carnegie!</p>
+      <p><strong>Text Your Team:</strong><br>🔥 Don't miss this! July Recognition & Vision Event — Sun @ 10AM. Jennifer Carnegie (Hall of Fame!) is flying in to pour into us. Bring a guest. Be early. Be ready.</p>
+      <p><strong>Post on Social Media:</strong><br>This Sunday @ 10AM — Celebrate progress and fuel your vision at our July Recognition & Vision Event. Featuring Hall of Fame leader Jennifer Carnegie, who built a business—and a life—through 5 years of focused effort. Don't miss this chance to learn, grow, and bring someone with you. 🚀 #Leadership #Motivation #TeamGrowth</p>
+    </div>
+  </details>
 </div>
 
 
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">Winning Mindset with Chris Koob (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-21T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
-  <div class="text-sm text-gray-700 mt-2 space-y-2">
-    
-    
-    <p><strong>Benefits to You:</strong> Discover the mindset and habits that fuel massive success—and how you can apply them right now.</p>
-    <p><strong>Why This Matters:</strong> This could be the turning point in your career</p>
-    
-    <p><strong>Text Your Team:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">🔥 Chris Koob is in the building! 10AM sharp at Acadia — don’t miss the mindset that built a $2M business.</span></p>
-    <p><strong>Post on Social Media:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">Ready to think like a $2M earner? Join us for a powerful mindset training with Chris Koob — Monday at 10AM, Acadia Office. Let’s build something big. 💥 #MindsetMatters #TeamTraining #LevelUp</span></p>
-  </div>
+  <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
+  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Mon, Jul 21<br>🕒 10:00 am – 11:00 am</p>
+  <p class="text-sm text-gray-700">Want to know how top leaders think and build teams that win?</p>
+  <p class="text-sm text-gray-700">Chris Koob, a $2 million earner, is joining us in person to share the mindset that built one of the biggest teams in the business.</p>
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      <p>Imagine getting direct access to the thinking, discipline, and strategy behind seven-figure success — and being able to apply it to your own journey.</p>
+      <p>Be at Acadia Office by 10AM. Bring a notebook, bring a friend, and bring your A-game. You don’t want to miss this.</p>
+      <p><strong>Guest Speaker:</strong><br>Chris Koob — 2 million dollar earner. One of the biggest teams in the business.</p>
+      <p><strong>Text Your Clients:</strong><br>Hey! We’re having a top industry leader, Chris Koob, speak in our office today. Come check out how we help people grow — it's worth seeing.</p>
+      <p><strong>Text Your Team:</strong><br>Don’t miss today’s mindset session with Chris Koob — a $2M earner with a massive team. Be in the room. 10AM sharp at Acadia Office!</p>
+      <p><strong>Post on Social Media:</strong><br>Today's the day! $2M earner Chris Koob is speaking live at Acadia Office. If you're serious about growth, get in the room. Mindset training starts at 10AM — come ready to level up. #Leadership #TeamGrowth #MindsetMonday</p>
+    </div>
+  </details>
 </div>
 
 
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">Friday Locker Room (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 10:00:00 – 11:30:00</p>
-  <div class="text-sm text-gray-700 mt-2 space-y-2">
-    
-    
-    <p><strong>Benefits to You:</strong> Gain the structure and habits you need to build a business that grows week after week — with the power of accountability.</p>
-    <p><strong>Why This Matters:</strong> Consistency Creates Confidence</p>
-    
-    <p><strong>Text Your Team:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">🔥 Friday at 10AM — Productivity Training at the Acadia Office. Calibrate your business, lock in your goals, and grow together.</span></p>
-    <p><strong>Post on Social Media:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">Success isn’t random — it’s a result of consistent habits, peer accountability, and weekly calibration. Join us Friday at 10AM at the Acadia Office to get realigned and recharged. 💼🚀 #TeamGrowth #PowerHabits #Accountability</span></p>
-  </div>
+  <div class="text-xs italic">Investing 101: Make It Make Sense</div>
+  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Fri, Jul 25<br>🕒 7:00 pm – 8:30 pm</p>
+  <p class="text-sm text-gray-700">Ever felt stuck trying to explain investments to a client or teammate?</p>
+  <p class="text-sm text-gray-700">This session teaches you how to turn complicated financial ideas into clear, relatable explanations.</p>
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      <p>Imagine confidently walking into every appointment, knowing you can make investing feel simple and logical.</p>
+      <p>Be at the Acadia Office Friday by 7PM — bring your notes, your questions, and your energy.</p>
+      
+      <p><strong>Text Your Clients:</strong><br>Hey! We're hosting an investing basics session at the office this Friday at 7PM. Want to come see how we teach clients about growing their money? Great way to learn what we do.</p>
+      <p><strong>Text Your Team:</strong><br>REMINDER: 'Investing 101' is this Friday @ 7PM (Acadia Office). Come ready to learn how to explain investing clearly and build trust with clients. Show up early!</p>
+      <p><strong>Post on Social Media:</strong><br>📢 Want to make investing easy to explain? Join us Friday at 7PM at the Acadia Office for a hands-on team training. Learn how to break down investing into simple, relatable language. Grow your confidence and help more clients! 💼📈 #TeamTraining #InvestingMadeSimple</p>
+    </div>
+  </details>
 </div>
 
 
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">Investing 101: Make It Make Sense</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-25T00:00:00.000Z<br>🕒 19:00:00 – 20:30:00</p>
-  <div class="text-sm text-gray-700 mt-2 space-y-2">
-    
-    
-    <p><strong>Benefits to You:</strong> You’ll walk away with simple ways to talk about investing, tools to build client trust, and a stronger foundation for helping your team grow their financial confidence.</p>
-    <p><strong>Why This Matters:</strong> When you know how to explain things clearly, clients trust you faster and your confidence soars.</p>
-    
-    <p><strong>Text Your Team:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">REMINDER: 'Investing 101' is this Friday @ 7PM (Acadia Office). Come ready to learn how to explain investing clearly and build trust with clients. Show up early!</span></p>
-    <p><strong>Post on Social Media:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">📢 Want to make investing easy to explain? Join us Friday at 7PM at the Acadia Office for a hands-on team training. Learn how to break down investing into simple, relatable language. Grow your confidence and help more clients! 💼📈 #TeamTraining #InvestingMadeSimple</span></p>
-  </div>
+  <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
+  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Mon, Jul 28<br>🕒 10:00 am – 11:00 am</p>
+  <p class="text-sm text-gray-700"></p>
+  <p class="text-sm text-gray-700"></p>
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      
+      
+      <p><strong>Guest Speaker:</strong><br>Chris Koob — 2 million dollar earner. One of the biggest teams in the business.</p>
+      <p><strong>Text Your Clients:</strong><br>Hey! We’re having a top industry leader, Chris Koob, speak in our office today. Come check out how we help people grow — it's worth seeing.</p>
+      <p><strong>Text Your Team:</strong><br>Don’t miss today’s mindset session with Chris Koob — a $2M earner with a massive team. Be in the room. 10AM sharp at Acadia Office!</p>
+      <p><strong>Post on Social Media:</strong><br>Today's the day! $2M earner Chris Koob is speaking live at Acadia Office. If you're serious about growth, get in the room. Mindset training starts at 10AM — come ready to level up. #Leadership #TeamGrowth #MindsetMonday</p>
+    </div>
+  </details>
 </div>
-
-
-<!-- 📅 Training -->
-<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
-  <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <h3 class="text-lg font-semibold">Winning Mindset with Chris Koob (Auto)</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 2025-07-28T00:00:00.000Z<br>🕒 10:00:00 – 11:00:00</p>
-  <div class="text-sm text-gray-700 mt-2 space-y-2">
-    
-    
-    <p><strong>Benefits to You:</strong> Discover the mindset and habits that fuel massive success—and how you can apply them right now.</p>
-    <p><strong>Why This Matters:</strong> This could be the turning point in your career</p>
-    
-    <p><strong>Text Your Team:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">🔥 Chris Koob is in the building! 10AM sharp at Acadia — don’t miss the mindset that built a $2M business.</span></p>
-    <p><strong>Post on Social Media:</strong><br><span class="block bg-white border rounded p-2 text-xs font-mono text-gray-700 whitespace-pre-wrap">Ready to think like a $2M earner? Join us for a powerful mindset training with Chris Koob — Monday at 10AM, Acadia Office. Let’s build something big. 💥 #MindsetMatters #TeamTraining #LevelUp</span></p>
-  </div>
-</div>
-
 
 </div>
 <hr class="my-6 border-t border-gray-300">
