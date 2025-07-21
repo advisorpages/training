@@ -14,15 +14,16 @@ pageType: "events"
 ## 🎉 Upcoming Events
 
 <div class="grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6">
-<!-- 🎉 Event -->
+  <!-- 📅 Event -->
 <div class="searchable bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition p-4 flex flex-col gap-2">
   <div class="flex justify-between items-center">
-    <h3 class="text-lg font-semibold text-gray-900">5 Years of Focus. A Lifetime of Freedom.</h3>
-    
-<div class="text-center bg-indigo-100 text-indigo-800 font-bold rounded px-2 py-1 text-sm w-max">
-  Sun, Jul 20, 2025
-</div>
+    <p class="text-xs text-gray-500">5 Years to Freedom</p>
+    <div class="text-center bg-indigo-100 text-indigo-800 font-bold rounded px-2 py-1 text-sm w-max">
+      Sun, Jul 20, 2025
+    </div>
   </div>
+
+  <h3 class="text-xl font-bold text-gray-900">5 Years of Focus. A Lifetime of Freedom.</h3>
 
   <div class="text-sm text-gray-600">📍 Acadia Office<br/>🕙 10:00 AM – 12:00 PM</div>
 
