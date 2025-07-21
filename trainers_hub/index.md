@@ -46,15 +46,6 @@ permalink: "/trainers_hub/index.html"
 
 
 <div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4">
-  <h3 class="text-md font-semibold text-gray-900">Winning Mindset with Chris Koob</h3>
-  <p class="text-sm text-gray-600">📅 Jul 14, 2025 | 🕒 10:00:00–11:00:00</p>
-  <p class="text-sm text-gray-600">📍 Acadia Office</p>
-  <p class="text-sm text-gray-600">🏷 MINDSET</p>
-  <p class="text-xs text-blue-500 uppercase tracking-wide font-bold">COMPLETED</p>
-</div>
-
-
-<div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4">
   <h3 class="text-md font-semibold text-gray-900">Friday Locker Room</h3>
   <p class="text-sm text-gray-600">📅 Jul 18, 2025 | 🕒 10:00:00–11:30:00</p>
   <p class="text-sm text-gray-600">📍 Acadia Office</p>
@@ -73,7 +64,7 @@ permalink: "/trainers_hub/index.html"
 
 
 <div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4">
-  <h3 class="text-md font-semibold text-gray-900">Winning Mindset with Chris Koob (Auto)</h3>
+  <h3 class="text-md font-semibold text-gray-900">Million Dollar Mindset Training with Chris Koob</h3>
   <p class="text-sm text-gray-600">📅 Jul 21, 2025 | 🕒 10:00:00–11:00:00</p>
   <p class="text-sm text-gray-600">📍 Acadia Office</p>
   <p class="text-sm text-gray-600">🏷 MINDSET</p>
