@@ -52,6 +52,8 @@ pageType: "home"
   
   <p class="text-sm text-gray-500">EVENT</p>
 
+  
+
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
     <div class="text-sm mt-2 space-y-2">
@@ -83,6 +85,8 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   <p class="text-sm text-gray-700">This session teaches you how to turn complicated financial ideas into clear, relatable explanations.</p>
   <p class="text-sm text-gray-500">INVEST | investing, team training, client communication</p>
 
+  
+
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
     <div class="text-sm mt-2 space-y-2">
@@ -111,6 +115,8 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   
   
   <p class="text-sm text-gray-500">MINDSET | Mindset, Inspiration, Leadership</p>
+
+  
 
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
