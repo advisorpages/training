@@ -39,9 +39,9 @@ pageType: "home"
 
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
-  <div class="text-sm text-gray-500 mb-1">📘 Training</div>
+  <div class="text-sm text-gray-500 mb-1">EVENT</div>
   <div class="text-xs italic">5 Years to Freedom</div>
-  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <h3 class="text-lg font-semibold">5 Years of Focus. A Lifetime of Freedom.</h3>
   <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Sun, Jul 20<br>🕒 10:00 am – 12:00 pm</p>
   <p class="text-sm text-gray-700"></p>
   <p class="text-sm text-gray-700"></p>
@@ -63,31 +63,9 @@ Inducted to Primerica Hall of Fame in July 2025</p>
 
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
-  <div class="text-sm text-gray-500 mb-1">📘 Training</div>
-  <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
-  <h3 class="text-lg font-semibold">Untitled Training</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Mon, Jul 21<br>🕒 10:00 am – 11:00 am</p>
-  <p class="text-sm text-gray-700">Want to know how top leaders think and build teams that win?</p>
-  <p class="text-sm text-gray-700">Chris Koob, a $2 million earner, is joining us in person to share the mindset that built one of the biggest teams in the business.</p>
-  <details class="mt-2">
-    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
-    <div class="text-sm mt-2 space-y-2">
-      <p>Imagine getting direct access to the thinking, discipline, and strategy behind seven-figure success — and being able to apply it to your own journey.</p>
-      <p>Be at Acadia Office by 10AM. Bring a notebook, bring a friend, and bring your A-game. You don’t want to miss this.</p>
-      <p><strong>Guest Speaker:</strong><br>Chris Koob — 2 million dollar earner. One of the biggest teams in the business.</p>
-      <p><strong>Text Your Clients:</strong><br>Hey! We’re having a top industry leader, Chris Koob, speak in our office today. Come check out how we help people grow — it's worth seeing.</p>
-      <p><strong>Text Your Team:</strong><br>Don’t miss today’s mindset session with Chris Koob — a $2M earner with a massive team. Be in the room. 10AM sharp at Acadia Office!</p>
-      <p><strong>Post on Social Media:</strong><br>Today's the day! $2M earner Chris Koob is speaking live at Acadia Office. If you're serious about growth, get in the room. Mindset training starts at 10AM — come ready to level up. #Leadership #TeamGrowth #MindsetMonday</p>
-    </div>
-  </details>
-</div>
-
-
-<!-- 📅 Training -->
-<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
-  <div class="text-sm text-gray-500 mb-1">📘 Training</div>
+  <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Investing 101: Make It Make Sense</div>
-  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <h3 class="text-lg font-semibold">Make Investing Easy to Explain — Even for Beginners</h3>
   <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Fri, Jul 25<br>🕒 7:00 pm – 8:30 pm</p>
   <p class="text-sm text-gray-700">Ever felt stuck trying to explain investments to a client or teammate?</p>
   <p class="text-sm text-gray-700">This session teaches you how to turn complicated financial ideas into clear, relatable explanations.</p>
@@ -107,9 +85,9 @@ Inducted to Primerica Hall of Fame in July 2025</p>
 
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
-  <div class="text-sm text-gray-500 mb-1">📘 Training</div>
+  <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
-  <h3 class="text-lg font-semibold">Untitled Training</h3>
+  <h3 class="text-lg font-semibold">Unlock the Mindset of a $2M Earner</h3>
   <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Mon, Jul 28<br>🕒 10:00 am – 11:00 am</p>
   <p class="text-sm text-gray-700"></p>
   <p class="text-sm text-gray-700"></p>
