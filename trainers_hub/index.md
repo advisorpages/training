@@ -68,7 +68,7 @@ permalink: "/trainers_hub/index.html"
   <p class="text-sm text-gray-600">📅 Jul 21, 2025 | 🕒 10:00:00–11:00:00</p>
   <p class="text-sm text-gray-600">📍 Acadia Office</p>
   <p class="text-sm text-gray-600">🏷 MINDSET</p>
-  <p class="text-xs text-blue-500 uppercase tracking-wide font-bold">UPCOMING</p>
+  <p class="text-xs text-blue-500 uppercase tracking-wide font-bold">COMPLETED</p>
 </div>
 
 </div>
