@@ -42,9 +42,16 @@ pageType: "home"
   <div class="text-sm text-gray-500 mb-1">EVENT</div>
   <div class="text-xs italic">5 Years to Freedom</div>
   <h3 class="text-lg font-semibold">5 Years of Focus. A Lifetime of Freedom.</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Sun, Jul 20<br>🕒 10:00 am – 12:00 pm</p>
-  <p class="text-sm text-gray-700"></p>
-  <p class="text-sm text-gray-700"></p>
+  <p class="text-sm text-gray-700 mb-2">
+    📍 Acadia Office<br>
+    🗓 Sun, Jul 20<br>
+    🕒 10:00 am – 12:00 pm
+  </p>
+
+  
+  
+  <p class="text-sm text-gray-500">EVENT</p>
+
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
     <div class="text-sm mt-2 space-y-2">
@@ -66,9 +73,16 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Investing 101: Make It Make Sense</div>
   <h3 class="text-lg font-semibold">Make Investing Easy to Explain — Even for Beginners</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Fri, Jul 25<br>🕒 7:00 pm – 8:30 pm</p>
+  <p class="text-sm text-gray-700 mb-2">
+    📍 Acadia Office<br>
+    🗓 Fri, Jul 25<br>
+    🕒 7:00 pm – 8:30 pm
+  </p>
+
   <p class="text-sm text-gray-700">Ever felt stuck trying to explain investments to a client or teammate?</p>
   <p class="text-sm text-gray-700">This session teaches you how to turn complicated financial ideas into clear, relatable explanations.</p>
+  <p class="text-sm text-gray-500">INVEST | investing, team training, client communication</p>
+
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
     <div class="text-sm mt-2 space-y-2">
@@ -88,9 +102,16 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
   <h3 class="text-lg font-semibold">Unlock the Mindset of a $2M Earner</h3>
-  <p class="text-sm text-gray-700 mb-2">📍 Acadia Office<br>🗓 Mon, Jul 28<br>🕒 10:00 am – 11:00 am</p>
-  <p class="text-sm text-gray-700"></p>
-  <p class="text-sm text-gray-700"></p>
+  <p class="text-sm text-gray-700 mb-2">
+    📍 Acadia Office<br>
+    🗓 Mon, Jul 28<br>
+    🕒 10:00 am – 11:00 am
+  </p>
+
+  
+  
+  <p class="text-sm text-gray-500">MINDSET | Mindset, Inspiration, Leadership</p>
+
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
     <div class="text-sm mt-2 space-y-2">
