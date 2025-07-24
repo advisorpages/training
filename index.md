@@ -85,9 +85,7 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   <p class="text-sm text-gray-700">This session teaches you how to turn complicated financial ideas into clear, relatable explanations.</p>
   <p class="text-sm text-gray-500">INVEST | investing, team training, client communication</p>
 
-  <p class="text-sm text-blue-600 break-words">
-    🔗 <a href="https://events.8531.ca/investing-101-aldj" class="underline" target="_blank">https://events.8531.ca/investing-101-aldj</a>
-  </p>
+  
 
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
