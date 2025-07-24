@@ -12,10 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # ✅ Avoid race conditions when multiple deploys are triggered
+    # ✅ Updated to avoid missed workflow runs
     concurrency:
-      group: "deploy-gh-pages"
-      cancel-in-progress: true
+      group: deploy-gh-pages-${{ github.ref }}
+      cancel-in-progress: false
 
     steps:
       - name: 📥 Checkout Repository
@@ -57,5 +57,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site
           publish_branch: gh-pages
-          force_orphan: true     # ✅ Ensures clean history
-          clean: true            # ✅ Prevents stale .git folders or conflicts
+          force_orphan: true
+          clean: true
