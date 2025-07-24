@@ -74,7 +74,7 @@ Inducted to Primerica Hall of Fame in July 2025</p>
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Investing 101: Make It Make Sense</div>
-  <h3 class="text-lg font-semibold">Make Investing Easy to Explain — Even for Beginners</h3>
+  <h3 class="text-lg font-semibold"></h3>
   <p class="text-sm text-gray-700 mb-2">
     📍 Acadia Office<br>
     🗓 Fri, Jul 25<br>
@@ -105,7 +105,7 @@ Inducted to Primerica Hall of Fame in July 2025</p>
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
-  <h3 class="text-lg font-semibold">Unlock the Mindset of a $2M Earner</h3>
+  <h3 class="text-lg font-semibold"></h3>
   <p class="text-sm text-gray-700 mb-2">
     📍 Acadia Office<br>
     🗓 Mon, Jul 28<br>
