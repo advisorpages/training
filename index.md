@@ -100,6 +100,39 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   </details>
 </div>
 
+
+<!-- 📅 Training -->
+<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
+  <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
+  <div class="text-xs italic">Mastering the Canada Life Seg Fund</div>
+  <h3 class="text-lg font-semibold">Unlock the Power of Canada Life's New Seg Fund – Learn How to Sell It with Confidence</h3>
+  <p class="text-sm text-gray-700 mb-2">
+    📍 Acadia Office<br>
+    🗓 Wed, Jul 30<br>
+    🕒 7:00 pm – 8:30 pm
+  </p>
+
+  <p class="text-sm text-gray-700">Want to grow your confidence and sales with a new investment tool your clients will thank you for?</p>
+  <p class="text-sm text-gray-700">This Wednesday at 7PM, we’re breaking down Canada Life’s new Seg Fund in a fast-paced, in-person workshop at the Acadia Office.</p>
+  <p class="text-sm text-gray-500">INVEST | investment, sales, inperson</p>
+
+  <p class="text-sm text-blue-600 break-words">
+    🔗 <a href="https://events.8531.ca/sch-107" class="underline" target="_blank">https://events.8531.ca/sch-107</a>
+  </p>
+
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      <p>You’ll leave with the skills to confidently present it, handle objections, and teach your team to do the same — faster and easier.</p>
+      <p>Be there early, notebook ready, and invite someone from your team. This is one you don’t want to miss.</p>
+      
+      <p><strong>Text Your Clients:</strong><br>Hey! Want to see how we help families invest smarter using Canada Life’s newest strategy? I’ll be at an in-person session this Wed at 7PM. Come check it out at the Acadia office!</p>
+      <p><strong>Text Your Team:</strong><br>Team — big in-person training this Wed 7PM at Acadia. Learn how to sell the new Canada Life Seg Fund + appointment-setting tips. Show up early + ready!</p>
+      <p><strong>Post on Social Media:</strong><br>📣 In-person training this Wed @ Acadia Office! Learn how to sell Canada Life's NEW Seg Fund + sharpen your appointment-setting skills. Confidence = clarity = growth. Show up early & bring your team! 💼🔥</p>
+    </div>
+  </details>
+</div>
+
 </div>
 <hr class="my-6 border-t border-gray-300">
 
