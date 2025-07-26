@@ -28,7 +28,7 @@ pageType: "incentives"
     <summary class="text-blue-600 cursor-pointer text-sm font-medium">More Info</summary>
     <div class="mt-2 text-sm text-gray-800 space-y-2">
       <p><strong>Description:</strong> Earn an iPad by launching your business strong! This limited-time challenge rewards new teammates who take fast action and hit key activity goals in their first week.</p>
-      <p><strong>Eligibility:</strong> Open to new teammates who join between June 21–28, 2025 and complete the required onboarding activities within 7 days.</p>
+      <p><strong>Eligibility:</strong> Open to new teamasadasdasmates who join between June 21–28, 2025 and complete the required onboarding activities within 7 days.</p>
     </div>
   </details>
 </div>

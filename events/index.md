@@ -33,7 +33,7 @@ Inducted to Primerica Hall of Fame in July 2025</div>
 
   <div class="mt-2 text-sm text-gray-800 space-y-2">
     <p><strong>What to Expect:</strong> Celebrate wins, grow your vision, and hear from someone who’s done it. Jennifer Carnegie, a newly inducted Hall of Fame leader with 30+ years of experience, will share how five years of focused effort can build a business—and a life—you’re proud of.</p>
-    <p><strong>Why Attend:</strong> Discover how to create long-term success in a business that helps others while transforming your own life.</p>
+    <p><strong>Why Attend:</strong> Discover asdasdhow to create long-term success in a business that helps others while transforming your own life.</p>
     <p><strong>Call to Action:</strong> Register now, show up early, and bring someone with you. This could change your future.</p>
   </div>
 </div>

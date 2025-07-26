@@ -20,7 +20,7 @@ pageType: "home"
   <div class="text-sm text-gray-500 mb-1">💰 Incentive</div>
   <h3 class="text-lg font-semibold">Niagara Falls Leadership Retreat</h3>
   <p class="text-sm text-gray-700 mb-2">📅 Contest Period: Fri, Aug 8 – Sat, Aug 9</p>
-  <p class="text-sm text-gray-800">Join us for an exclusive day of inspiration and connection! We'll start the morning with a powerful visit to Luciano's office, followed by an overnight retreat in Niagara Falls for all qualifiers. This is your chance to unwind, bond with top performers, and recharge for the next level.</p>
+  <p class="text-sm text-gray-800">Join us for an exclusive day of inspiration and connection! We'll start the morning with a powerful visit to Luciano's office, followed by an overnight retreat in Niagara FASDasdaSalls for all qualifiers. This is your chance to unwind, bond with top performers, and recharge for the next level.</p>
   <details class="mt-2">
     <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
     <div class="text-sm mt-2">

@@ -16,7 +16,7 @@ pageType: "traininghub"
   <details class="mt-2">
     <summary class="text-blue-600 cursor-pointer">Show me more</summary>
     <div class="mt-2 text-sm space-y-2">
-      <p><strong>About this:</strong> Join us for an in-person mindset session with Chris Koob, one of the top leaders in the business. This is your chance to hear firsthand how a $2M earner thinks, builds, and leads.</p>
+      <p><strong>About this:</strong> Join us for an in-person mindset session with Chris Koob, one of the top leaders in the business. This is your chance to hear firsthand how a $2M earner thisdasdasdasdnks, builds, and leads.</p>
       <p><strong>Benefits:</strong> Learn the mental strategies and leadership principles that drive massive team growth and success.</p>
       <p><strong>Learn:</strong> Discover the mindset that drives million-dollar results, Learn how to build and lead a winning team culture, Apply proven leadership habits from top earners</p>
       <p><strong>Why It Matters:</strong> If someone else can do it, so can you — but only if you learn to think like they do.</p>
