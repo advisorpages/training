@@ -37,15 +37,6 @@ permalink: "/trainers_hub/index.html"
 
 
 <div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4">
-  <h3 class="text-md font-semibold text-gray-900">Seg Funds 101: Canada Life Breakdown</h3>
-  <p class="text-sm text-gray-600">📅 Jul 9, 2025 | 🕒 19:00:00–20:30:00</p>
-  <p class="text-sm text-gray-600">📍 Acadia Office</p>
-  <p class="text-sm text-gray-600">🏷 INVEST</p>
-  <p class="text-xs text-blue-500 uppercase tracking-wide font-bold">COMPLETED</p>
-</div>
-
-
-<div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4">
   <h3 class="text-md font-semibold text-gray-900">Friday Locker Room</h3>
   <p class="text-sm text-gray-600">📅 Jul 18, 2025 | 🕒 10:00:00–11:30:00</p>
   <p class="text-sm text-gray-600">📍 Acadia Office</p>
@@ -73,7 +64,7 @@ permalink: "/trainers_hub/index.html"
 
 
 <div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4">
-  <h3 class="text-md font-semibold text-gray-900">Investing 101: Make It Make Sense</h3>
+  <h3 class="text-md font-semibold text-gray-900">Investing Made Simple: How to Talk About Money with Confidence</h3>
   <p class="text-sm text-gray-600">📅 Jul 25, 2025 | 🕒 19:00:00–20:30:00</p>
   <p class="text-sm text-gray-600">📍 Acadia Office</p>
   <p class="text-sm text-gray-600">🏷 INVEST</p>
