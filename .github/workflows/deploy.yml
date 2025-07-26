@@ -3,17 +3,8 @@ name: Deploy Eleventy + TailwindCSS to GitHub Pages
 on:
   push:
     branches: [main]
-    paths:
-      - '**/*.md'
-      - '.eleventy.js'
-      - 'input.css'
-      - 'tailwind.config.js'
-      - 'package.json'
-      - 'package-lock.json'
-      - '_includes/**'
-      - '.github/workflows/deploy.yml'
-
   workflow_dispatch:
+
 
 permissions:
   contents: write
