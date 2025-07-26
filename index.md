@@ -73,39 +73,8 @@ Inducted to Primerica Hall of Fame in July 2025</p>
 <!-- 📅 Training -->
 <div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
   <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
-  <div class="text-xs italic">Investing 101: Make It Make Sense</div>
-  <h3 class="text-lg font-semibold"></h3>
-  <p class="text-sm text-gray-700 mb-2">
-    📍 Acadia Office<br>
-    🗓 Fri, Jul 25<br>
-    🕒 7:00 pm – 8:30 pm
-  </p>
-
-  <p class="text-sm text-gray-700">Ever felt stuck trying to explain investments to a client or teammate?</p>
-  <p class="text-sm text-gray-700">This session teaches you how to turn complicated financial ideas into clear, relatable explanations.</p>
-  <p class="text-sm text-gray-500">INVEST | investing, team training, client communication</p>
-
-  
-
-  <details class="mt-2">
-    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
-    <div class="text-sm mt-2 space-y-2">
-      <p>Imagine confidently walking into every appointment, knowing you can make investing feel simple and logical.</p>
-      <p>Be at the Acadia Office Friday by 7PM — bring your notes, your questions, and your energy.</p>
-      
-      <p><strong>Text Your Clients:</strong><br>Hey! We're hosting an investing basics session at the office this Friday at 7PM. Want to come see how we teach clients about growing their money? Great way to learn what we do.</p>
-      <p><strong>Text Your Team:</strong><br>REMINDER: 'Investing 101' is this Friday @ 7PM (Acadia Office). Come ready to learn how to explain investing clearly and build trust with clients. Show up early!</p>
-      <p><strong>Post on Social Media:</strong><br>📢 Want to make investing easy to explain? Join us Friday at 7PM at the Acadia Office for a hands-on team training. Learn how to break down investing into simple, relatable language. Grow your confidence and help more clients! 💼📈 #TeamTraining #InvestingMadeSimple</p>
-    </div>
-  </details>
-</div>
-
-
-<!-- 📅 Training -->
-<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
-  <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
   <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
-  <h3 class="text-lg font-semibold"></h3>
+  <h3 class="text-lg font-semibold">Unlock the Mindset of a $2M Earner</h3>
   <p class="text-sm text-gray-700 mb-2">
     📍 Acadia Office<br>
     🗓 Mon, Jul 28<br>
