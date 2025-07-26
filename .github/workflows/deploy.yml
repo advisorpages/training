@@ -22,7 +22,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # ✅ Prevent race conditions with consistent concurrency group
     concurrency:
       group: deploy-gh-pages-main
       cancel-in-progress: false
@@ -42,13 +41,14 @@ jobs:
       - name: 📦 Install Dependencies
         run: npm ci
 
-      - name: ⚙️ Check Eleventy config
-        run: test -f .eleventy.js && echo "✅ Found .eleventy.js" || (echo "❌ Missing .eleventy.js" && exit 1)
+      - name: ⚙️ Check Eleventy Config
+        run: |
+          test -f .eleventy.js && echo "✅ Found .eleventy.js" || (echo "❌ Missing .eleventy.js" && exit 1)
 
-      - name: 🧹 Clean old build and cache
+      - name: 🧹 Clean Previous Build
         run: rm -rf _site .eleventy-cache
 
-      - name: 🏗 Build Eleventy
+      - name: 🏗 Build Eleventy Site
         run: npm run build
 
       - name: 🎨 Build Tailwind CSS
@@ -57,13 +57,10 @@ jobs:
       - name: ✅ Verify Tailwind Output
         run: test -f _site/styles.css || (echo "❌ Tailwind output missing!" && exit 1)
 
-      - name: 📝 Write CNAME
-        run: echo "grow.8531.ca" > _site/CNAME
-
       - name: 🚫 Disable Jekyll
         run: touch _site/.nojekyll
 
-      - name: 📁 Debug _site Contents
+      - name: 📁 List Final Site Contents
         run: ls -R _site
 
       - name: 🚀 Deploy to GitHub Pages
@@ -72,5 +69,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site
           publish_branch: gh-pages
+          cname: grow.8531.ca
           force_orphan: true
           clean: true
