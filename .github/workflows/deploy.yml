@@ -3,6 +3,16 @@ name: Deploy Eleventy + TailwindCSS to GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - '**/*.md'
+      - '.eleventy.js'
+      - 'input.css'
+      - 'tailwind.config.js'
+      - 'package.json'
+      - 'package-lock.json'
+      - '_includes/**'
+      - '.github/workflows/deploy.yml'
+
   workflow_dispatch:
 
 permissions:
@@ -33,11 +43,10 @@ jobs:
         run: npm ci
 
       - name: ⚙️ Check Eleventy config
-        run: test -f .eleventy.js && echo "✅ Found" || (echo "❌ Missing .eleventy.js" && exit 1)
+        run: test -f .eleventy.js && echo "✅ Found .eleventy.js" || (echo "❌ Missing .eleventy.js" && exit 1)
 
       - name: 🧹 Clean old build and cache
-        run: |
-          rm -rf _site .eleventy-cache
+        run: rm -rf _site .eleventy-cache
 
       - name: 🏗 Build Eleventy
         run: npm run build
@@ -54,7 +63,7 @@ jobs:
       - name: 🚫 Disable Jekyll
         run: touch _site/.nojekyll
 
-      - name: 📁 Debug _site Contents (optional)
+      - name: 📁 Debug _site Contents
         run: ls -R _site
 
       - name: 🚀 Deploy to GitHub Pages
