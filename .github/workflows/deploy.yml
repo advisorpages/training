@@ -12,9 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # ✅ Updated to avoid missed workflow runs
+    # ✅ Prevent race conditions with consistent concurrency group
     concurrency:
-      group: deploy-gh-pages-${{ github.ref }}
+      group: deploy-gh-pages-main
       cancel-in-progress: false
 
     steps:
@@ -33,7 +33,7 @@ jobs:
         run: npm ci
 
       - name: ⚙️ Check Eleventy config
-        run: test -f .eleventy.js && echo "✅ Found" || (echo "❌ Missing" && exit 1)
+        run: test -f .eleventy.js && echo "✅ Found" || (echo "❌ Missing .eleventy.js" && exit 1)
 
       - name: 🧹 Clean old build and cache
         run: |
@@ -45,11 +45,17 @@ jobs:
       - name: 🎨 Build Tailwind CSS
         run: npx tailwindcss -c tailwind.config.js -i input.css -o _site/styles.css --minify
 
+      - name: ✅ Verify Tailwind Output
+        run: test -f _site/styles.css || (echo "❌ Tailwind output missing!" && exit 1)
+
       - name: 📝 Write CNAME
         run: echo "grow.8531.ca" > _site/CNAME
 
       - name: 🚫 Disable Jekyll
         run: touch _site/.nojekyll
+
+      - name: 📁 Debug _site Contents (optional)
+        run: ls -R _site
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
