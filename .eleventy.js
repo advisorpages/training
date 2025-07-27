@@ -9,11 +9,12 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: ".",
-      output: "_site", // GitHub Pages uses this
+      output: "_site",
       includes: "_includes",
       layouts: "_includes"
     },
     markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk"
+    htmlTemplateEngine: "njk",
+    pathPrefix: "/training/"    // 👈 add this line!
   };
 };
