@@ -133,6 +133,39 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   </details>
 </div>
 
+
+<!-- 📅 Training -->
+<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
+  <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
+  <div class="text-xs italic">Investing Made Simple: How to Talk About Money with Confidence</div>
+  <h3 class="text-lg font-semibold">Turn Confusing Money Talks into Confident Conversations — For You and Your Clients</h3>
+  <p class="text-sm text-gray-700 mb-2">
+    📍 Acadia Office<br>
+    🗓 Thu, Jul 31<br>
+    🕒 7:00 pm – 8:30 pm
+  </p>
+
+  <p class="text-sm text-gray-700">Struggling to explain investing in a way that actually connects with people?</p>
+  <p class="text-sm text-gray-700">This Friday at 7PM, join us at the Acadia Office for a live, in-person session that simplifies investing so you can talk about it with ease and confidence.</p>
+  <p class="text-sm text-gray-500">INVEST | investment, confidence, inperson</p>
+
+  <p class="text-sm text-blue-600 break-words">
+    🔗 <a href="https://events.8531.ca/sch-122" class="underline" target="_blank">https://events.8531.ca/sch-122</a>
+  </p>
+
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      <p>You'll leave with practical tools to help clients make smarter decisions — and you'll feel ready to duplicate it with your team, too.</p>
+      <p>Be there early, bring someone new, and take the first step toward mastering money conversations that build trust and close business.</p>
+      
+      <p><strong>Text Your Clients:</strong><br>Hey! We’re hosting a live investing workshop this Friday at 7PM at our Acadia office — it’s all about making investing easy to understand and talk about. You’ll love it!</p>
+      <p><strong>Text Your Team:</strong><br>This Friday 7PM @ Acadia — in-person training on how to make investing simple to explain. Great for building confidence with clients + duplicating with your team. Don’t miss it!</p>
+      <p><strong>Post on Social Media:</strong><br>💡 Want to make investing easier to talk about — with clients or your team? Join us in person this Friday @ 7PM (Acadia Office) for a hands-on session that simplifies money talk and helps you close with confidence. Bring a friend or teammate! 💼📈</p>
+    </div>
+  </details>
+</div>
+
 </div>
 <hr class="my-6 border-t border-gray-300">
 

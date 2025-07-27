@@ -48,4 +48,24 @@ pageType: "traininghub"
     </div>
   </details>
 </div>
+<div class="searchable border border-gray-200 rounded-lg bg-white shadow-sm p-4 mb-6">
+  <h3 class="text-lg font-semibold text-gray-500 mb-1">Investing Made Simple: How to Talk About Money with Confidence</h3>
+  <p class="text-sm text-gray-700 italic mb-2">Turn Confusing Money Talks into Confident Conversations — For You and Your Clients</p>
+  <p class="text-sm text-gray-600">📅 Thu, Jul 31, 2025 | 🕒 7:00 PM–8:30 PM</p>
+  <p class="text-sm text-gray-600">📍 Acadia Office</p>
+  <details class="mt-2">
+    <summary class="text-blue-600 cursor-pointer">Show me more</summary>
+    <div class="mt-2 text-sm space-y-2">
+      <p><strong>About this:</strong> Join us for an empowering in-person session at the Acadia Office where we break down the basics of investing in a way anyone can understand. Whether you're just starting out or want to boost your confidence in client conversations, this session is your next step forward.</p>
+      <p><strong>Benefits:</strong> You'll learn how to talk about investing without jargon, simplify complex ideas for clients, and confidently attract more business and teammates through clear, empowering conversations.</p>
+      <p><strong>Learn:</strong> Learn simple ways to explain investing using everyday language, Understand key topics like compounding, diversification, and emotional investing, Gain tools to build trust with clients and empower your team to do the same</p>
+      <p><strong>Why It Matters:</strong> Confidence grows when you understand what you're sharing — and your clients will feel it too.</p>
+      <p><strong>CTA:</strong> Arrive early, bring a notebook, and invite someone who needs to hear this message.</p>
+      <p><strong>Tags:</strong> investment, confidence, inperson</p>
+      <p><strong>Team SMS:</strong><br><code>This Friday 7PM @ Acadia — in-person training on how to make investing simple to explain. Great for building confidence with clients + duplicating with your team. Don’t miss it!</code></p>
+      <p><strong>Client SMS:</strong><br><code>Hey! We’re hosting a live investing workshop this Friday at 7PM at our Acadia office — it’s all about making investing easy to understand and talk about. You’ll love it!</code></p>
+      <p><strong>Social:</strong><br><code>💡 Want to make investing easier to talk about — with clients or your team? Join us in person this Friday @ 7PM (Acadia Office) for a hands-on session that simplifies money talk and helps you close with confidence. Bring a friend or teammate! 💼📈</code></p>
+    </div>
+  </details>
+</div>
 </div>
