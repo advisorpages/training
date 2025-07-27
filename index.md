@@ -170,7 +170,7 @@ Inducted to Primerica Hall of Fame in July 2025</p>
 <hr class="my-6 border-t border-gray-300">
 
 ## 🔎 Explore More
-- 📅 [Full Training Calendar](/training/)
-- 🎉 [All Events](/events/)
-- 🎁 [Team Incentives](/incentives/)
-- 🧠 [Trainer Hub](/trainers_hub/)
+- 📅 [Full Training Calendar]({{ '/training/' | url }})
+- 🎉 [All Events]({{ '/events/' | url }})
+- 🎁 [Team Incentives]({{ '/incentives/' | url }})
+- 🧠 [Trainer Hub]({{ '/trainers_hub/' | url }})
