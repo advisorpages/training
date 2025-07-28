@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Incentives</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/training/styles.css">
+    <script defer>
+      // Hamburger toggle for Tailwind (no JS framework needed)
+      document.addEventListener('DOMContentLoaded', function() {
+        const btn = document.getElementById('menu-btn');
+        const menu = document.getElementById('nav-menu');
+        if (btn && menu) {
+          btn.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+          });
+        }
+      });
+    </script>
+  </head>
+  <body class="font-sans text-gray-900 bg-gray-50 min-h-screen">
+    <header class="bg-white shadow sticky top-0 z-50">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+        <div class="text-xl font-bold text-blue-700">
+          <a href="/training/">Training Hub</a>
+        </div>
+        <!-- Hamburger -->
+        <button id="menu-btn" class="sm:hidden text-2xl focus:outline-none">
+          <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+        <!-- Nav Links -->
+        <ul id="nav-menu" class="flex-col sm:flex-row sm:flex space-y-2 sm:space-y-0 sm:space-x-6 text-gray-700 text-sm font-medium hidden sm:flex">
+          <li><a href="/training/" class="hover:text-blue-600">Home</a></li>
+          <li><a href="/training/" class="hover:text-blue-600">Trainings</a></li>
+          <li><a href="/training/events/" class="hover:text-blue-600">Events</a></li>
+          <li><a href="/training/incentives/" class="hover:text-blue-600">Incentives</a></li>
+          <li><a href="/training/trainers_hub/" class="hover:text-blue-600">Trainer Hub</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="max-w-4xl mx-auto p-6">
+      <article class="prose lg:prose-lg max-w-none">
+        <section class="mb-8">
+  <input id="search-input" type="text" placeholder="Search incentives..." class="border border-gray-300 px-4 py-2 rounded w-full shadow-sm focus:outline-none focus:ring-2 focus:ring-yellow-400">
+</section>
+<h2>🏆 Current Incentives</h2>
+<div class="grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-6">
+<div class="searchable bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition p-4 flex flex-col gap-2">
+  <div class="flex justify-between items-center">
+    <h3 class="text-lg font-semibold text-gray-900">iPad Kickstart Challenge</h3>
+    <div class="text-xs bg-yellow-100 text-yellow-800 font-semibold px-2 py-1 rounded w-max">
+    Jun 21, 2025 – Jun 28, 2025
+  </div>
+  </div>
+  <p class="text-sm text-gray-700"><strong>🎁 Reward:</strong> Brand new iPad to power your business on the go.</p>
+  <details class="mt-1">
+    <summary class="text-blue-600 cursor-pointer text-sm font-medium">More Info</summary>
+    <div class="mt-2 text-sm text-gray-800 space-y-2">
+      <p><strong>Description:</strong> Earn an iPad by launching your business strong! This limited-time challenge rewards new teammates who take fast action and hit key activity goals in their first week.</p>
+      <p><strong>Eligibility:</strong> Open to new teammates who join between June 21–28, 2025 and complete the required onboarding activities within 7 days.</p>
+    </div>
+  </details>
+</div>
+<div class="searchable bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition p-4 flex flex-col gap-2">
+  <div class="flex justify-between items-center">
+    <h3 class="text-lg font-semibold text-gray-900">Niagara Falls Leadership Retreat</h3>
+    <div class="text-xs bg-yellow-100 text-yellow-800 font-semibold px-2 py-1 rounded w-max">
+    Aug 8, 2025 – Aug 9, 2025
+  </div>
+  </div>
+  <p class="text-sm text-gray-700"><strong>🎁 Reward:</strong> Overnight getaway in Niagara Falls with fellow qualifiers</p>
+  <details class="mt-1">
+    <summary class="text-blue-600 cursor-pointer text-sm font-medium">More Info</summary>
+    <div class="mt-2 text-sm text-gray-800 space-y-2">
+      <p><strong>Description:</strong> Join us for an exclusive day of inspiration and connection! We'll start the morning with a powerful visit to Luciano's office, followed by an overnight retreat in Niagara Falls for all qualifiers. This is your chance to unwind, bond with top performers, and recharge for the next level.</p>
+      <p><strong>Eligibility:</strong> Achieve 3 sales of $3,000 or more during the month of July</p>
+    </div>
+  </details>
+</div>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
