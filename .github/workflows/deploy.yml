@@ -5,7 +5,6 @@ on:
     branches: [main]
   workflow_dispatch:
 
-
 permissions:
   contents: write
 
@@ -15,7 +14,7 @@ jobs:
 
     concurrency:
       group: deploy-gh-pages-main
-      cancel-in-progress: false
+      cancel-in-progress: true
 
     steps:
       - name: 📥 Checkout Repository
@@ -32,15 +31,11 @@ jobs:
       - name: 📦 Install Dependencies
         run: npm ci
 
-      - name: ⚙️ Check Eleventy Config
-        run: |
-          test -f .eleventy.js && echo "✅ Found .eleventy.js" || (echo "❌ Missing .eleventy.js" && exit 1)
-
       - name: 🧹 Clean Previous Build
         run: rm -rf _site .eleventy-cache
 
       - name: 🏗 Build Eleventy Site
-        run: npm run build
+        run: npx eleventy
 
       - name: 🎨 Build Tailwind CSS
         run: npx tailwindcss -c tailwind.config.js -i input.css -o _site/styles.css --minify

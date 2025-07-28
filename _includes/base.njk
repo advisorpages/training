@@ -3,25 +3,37 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ title }}</title>
-
-    <!-- ✅ Google Font (optional) -->
+    <title>{{ title or "Training Hub" }}</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-
-    <!-- ✅ Use root-relative path for consistent styling -->
     <link rel="stylesheet" href="{{ '/styles.css' | url }}">
-
+    <script defer>
+      // Hamburger toggle for Tailwind (no JS framework needed)
+      document.addEventListener('DOMContentLoaded', function() {
+        const btn = document.getElementById('menu-btn');
+        const menu = document.getElementById('nav-menu');
+        if (btn && menu) {
+          btn.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+          });
+        }
+      });
+    </script>
   </head>
-
   <body class="font-sans text-gray-900 bg-gray-50 min-h-screen">
-
-   <!-- ✅ Sticky Navigation -->
     <header class="bg-white shadow sticky top-0 z-50">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         <div class="text-xl font-bold text-blue-700">
           <a href="{{ '/' | url }}">Training Hub</a>
         </div>
-        <ul class="flex space-x-6 text-gray-700 text-sm font-medium">
+        <!-- Hamburger -->
+        <button id="menu-btn" class="sm:hidden text-2xl focus:outline-none">
+          <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+        <!-- Nav Links -->
+        <ul id="nav-menu" class="flex-col sm:flex-row sm:flex space-y-2 sm:space-y-0 sm:space-x-6 text-gray-700 text-sm font-medium hidden sm:flex">
           <li><a href="{{ '/' | url }}" class="hover:text-blue-600">Home</a></li>
           <li><a href="{{ '/training/' | url }}" class="hover:text-blue-600">Trainings</a></li>
           <li><a href="{{ '/events/' | url }}" class="hover:text-blue-600">Events</a></li>
@@ -30,14 +42,10 @@
         </ul>
       </nav>
     </header>
-
-
-    <!-- ✅ Main content with improved typography -->
     <main class="max-w-4xl mx-auto p-6">
       <article class="prose lg:prose-lg max-w-none">
         {{ content | safe }}
       </article>
     </main>
-
   </body>
 </html>
