@@ -117,7 +117,7 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   <p class="text-sm text-gray-500">INVEST | investment, sales, inperson</p>
 
   <p class="text-sm text-blue-600 break-words">
-    🔗 <a href="https://events.8531.ca/sch-107" class="underline" target="_blank">https://events.8531.ca/sch-107</a>
+    🔗 <a href="https://events.8531.ca/undefined" class="underline" target="_blank">https://events.8531.ca/undefined</a>
   </p>
 
   <details class="mt-2">
@@ -166,11 +166,42 @@ Inducted to Primerica Hall of Fame in July 2025</p>
   </details>
 </div>
 
+
+<!-- 📅 Training -->
+<div class="border-l-4 border-blue-500 bg-blue-50 p-4 rounded-lg shadow">
+  <div class="text-sm text-gray-500 mb-1">SCHEDULE</div>
+  <div class="text-xs italic">Million Dollar Mindset Training with Chris Koob</div>
+  <h3 class="text-lg font-semibold">Unlock the Mindset of a $2M Earner</h3>
+  <p class="text-sm text-gray-700 mb-2">
+    📍 Acadia Office<br>
+    🗓 Mon, Aug 4<br>
+    🕒 10:00 am – 11:00 am
+  </p>
+
+  
+  
+  <p class="text-sm text-gray-500">MINDSET | Mindset, Inspiration, Leadership</p>
+
+  
+
+  <details class="mt-2">
+    <summary class="cursor-pointer text-sm text-blue-700 hover:underline">More Details</summary>
+    <div class="text-sm mt-2 space-y-2">
+      
+      
+      <p><strong>Guest Speaker:</strong><br>Chris Koob — 2 million dollar earner. One of the biggest teams in the business.</p>
+      <p><strong>Text Your Clients:</strong><br>Hey! We’re having a top industry leader, Chris Koob, speak in our office today. Come check out how we help people grow — it's worth seeing.</p>
+      <p><strong>Text Your Team:</strong><br>Don’t miss today’s mindset session with Chris Koob — a $2M earner with a massive team. Be in the room. 10AM sharp at Acadia Office!</p>
+      <p><strong>Post on Social Media:</strong><br>Today's the day! $2M earner Chris Koob is speaking live at Acadia Office. If you're serious about growth, get in the room. Mindset training starts at 10AM — come ready to level up. #Leadership #TeamGrowth #MindsetMonday</p>
+    </div>
+  </details>
+</div>
+
 </div>
 <hr class="my-6 border-t border-gray-300">
 
 ## 🔎 Explore More
-- 📅 [Full Training Calendar](/training/)
-- 🎉 [All Events](/events/)
-- 🎁 [Team Incentives](/incentives/)
-- 🧠 [Trainer Hub](/trainers_hub/)
+- 📅 [Full Training Calendar]({{ '/training/' | url }})
+- 🎉 [All Events]({{ '/events/' | url }})
+- 🎁 [Team Incentives]({{ '/incentives/' | url }})
+- 🧠 [Trainer Hub]({{ '/trainers_hub/' | url }})
